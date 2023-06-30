@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Login Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="51.432">
+  <properties />
+  
+  
+            <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="25.785" classname="cv.library.uk.testsuite.JobSearchTest" />
+                <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="25.647" classname="cv.library.uk.testsuite.JobSearchTest" />
+      
+</testsuite>

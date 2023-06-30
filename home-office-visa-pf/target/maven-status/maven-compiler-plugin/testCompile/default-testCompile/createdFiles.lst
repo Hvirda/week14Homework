@@ -1,0 +1,4 @@
+gov\uk\check\visa\testsuite\StartPageTest.class
+gov\uk\check\visa\testsuite\VisaConfirmationTest.class
+gov\uk\check\visa\testbase\TestBase.class
+resources\testdata\TestData.class

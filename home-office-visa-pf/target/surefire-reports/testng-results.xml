@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-30T22:00:56 BST" name="testsuite" finished-at="2023-06-30T22:01:09 BST" duration-ms="12863">
+    <groups>
+    </groups>
+    <test started-at="2023-06-30T22:00:56 BST" name="Login Test" finished-at="2023-06-30T22:01:09 BST" duration-ms="12863">
+      <class name="gov.uk.check.visa.testsuite.VisaConfirmationTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@5efa40fe]" started-at="2023-06-30T22:00:57 BST" name="setUp" finished-at="2023-06-30T22:01:01 BST" duration-ms="3874" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="inIt()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@5efa40fe]" started-at="2023-06-30T22:01:01 BST" name="inIt" finished-at="2023-06-30T22:01:01 BST" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method signature="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths()[pri:1, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@5efa40fe]" started-at="2023-06-30T22:01:01 BST" name="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" finished-at="2023-06-30T22:01:03 BST" duration-ms="1731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@5efa40fe]" started-at="2023-06-30T22:01:03 BST" name="tearDown" finished-at="2023-06-30T22:01:03 BST" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@5efa40fe]" started-at="2023-06-30T22:01:03 BST" name="setUp" finished-at="2023-06-30T22:01:05 BST" duration-ms="1760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="inIt()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@5efa40fe]" started-at="2023-06-30T22:01:05 BST" name="inIt" finished-at="2023-06-30T22:01:05 BST" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method signature="anAustralianCominToUKForTourism()[pri:2, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@5efa40fe]" started-at="2023-06-30T22:01:05 BST" name="anAustralianCominToUKForTourism" finished-at="2023-06-30T22:01:06 BST" duration-ms="1159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- anAustralianCominToUKForTourism -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@5efa40fe]" started-at="2023-06-30T22:01:06 BST" name="tearDown" finished-at="2023-06-30T22:01:06 BST" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@5efa40fe]" started-at="2023-06-30T22:01:06 BST" name="setUp" finished-at="2023-06-30T22:01:08 BST" duration-ms="1757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="inIt()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@5efa40fe]" started-at="2023-06-30T22:01:08 BST" name="inIt" finished-at="2023-06-30T22:01:08 BST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method signature="aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card()[pri:3, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@5efa40fe]" started-at="2023-06-30T22:01:08 BST" name="aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card" finished-at="2023-06-30T22:01:09 BST" duration-ms="1481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@5efa40fe]" started-at="2023-06-30T22:01:09 BST" name="tearDown" finished-at="2023-06-30T22:01:09 BST" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- gov.uk.check.visa.testsuite.VisaConfirmationTest -->
+    </test> <!-- Login Test -->
+  </suite> <!-- testsuite -->
+</testng-results>
