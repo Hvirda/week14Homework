@@ -16,3 +16,21 @@
 2023-06-30 23:06:499 INFO  ResultPage :24 - get resulttext [[ChromeDriver: chrome on WINDOWS (c4d7b5e006fa57c2481cf4cfbdf35cab)] -> xpath: //h1[@class='search-header__title']]<br>
 2023-06-30 23:06:656 INFO  ResultPage :24 - get resulttext [[ChromeDriver: chrome on WINDOWS (c4d7b5e006fa57c2481cf4cfbdf35cab)] -> xpath: //h1[@class='search-header__title']]<br>
 2023-06-30 23:06:800 INFO  ResultPage :31 - actualtext Permanent Test Manager jobs in London<br>
+2023-07-01 00:07:711 INFO  HomePage :75 - location [[ChromeDriver: chrome on WINDOWS (47c9bf284e4a34e5b3e9029475aa40b3)] -> xpath: //input[@id='location']]<br>
+2023-07-01 00:07:418 INFO  HomePage :87 - min salary [[ChromeDriver: chrome on WINDOWS (47c9bf284e4a34e5b3e9029475aa40b3)] -> xpath: //input[@id='salarymin']]<br>
+2023-07-01 00:07:508 INFO  HomePage :91 - max salary [[ChromeDriver: chrome on WINDOWS (47c9bf284e4a34e5b3e9029475aa40b3)] -> xpath: //input[@id='salarymax']]<br>
+2023-07-01 00:07:585 INFO  HomePage :95 - salarytype [[ChromeDriver: chrome on WINDOWS (47c9bf284e4a34e5b3e9029475aa40b3)] -> xpath: //select[@id='salarytype']]<br>
+2023-07-01 00:07:676 INFO  HomePage :99 - jobtype Permanent<br>
+2023-07-01 00:07:815 INFO  HomePage :103 - findjobs[[ChromeDriver: chrome on WINDOWS (47c9bf284e4a34e5b3e9029475aa40b3)] -> xpath: //input[@id='hp-search-btn']]<br>
+2023-07-01 00:07:759 INFO  ResultPage :24 - get resulttext [[ChromeDriver: chrome on WINDOWS (47c9bf284e4a34e5b3e9029475aa40b3)] -> xpath: //h1[@class='search-header__title']]<br>
+2023-07-01 00:07:795 INFO  ResultPage :24 - get resulttext [[ChromeDriver: chrome on WINDOWS (47c9bf284e4a34e5b3e9029475aa40b3)] -> xpath: //h1[@class='search-header__title']]<br>
+2023-07-01 00:07:820 INFO  ResultPage :31 - actualtext Permanent Tester jobs in Harrow<br>
+2023-07-01 00:07:185 INFO  HomePage :75 - location [[ChromeDriver: chrome on WINDOWS (9607de299f365d28ea493f45b10fc0c7)] -> xpath: //input[@id='location']]<br>
+2023-07-01 00:07:521 INFO  HomePage :87 - min salary [[ChromeDriver: chrome on WINDOWS (9607de299f365d28ea493f45b10fc0c7)] -> xpath: //input[@id='salarymin']]<br>
+2023-07-01 00:07:674 INFO  HomePage :91 - max salary [[ChromeDriver: chrome on WINDOWS (9607de299f365d28ea493f45b10fc0c7)] -> xpath: //input[@id='salarymax']]<br>
+2023-07-01 00:07:750 INFO  HomePage :95 - salarytype [[ChromeDriver: chrome on WINDOWS (9607de299f365d28ea493f45b10fc0c7)] -> xpath: //select[@id='salarytype']]<br>
+2023-07-01 00:07:830 INFO  HomePage :99 - jobtype Permanent<br>
+2023-07-01 00:07:946 INFO  HomePage :103 - findjobs[[ChromeDriver: chrome on WINDOWS (9607de299f365d28ea493f45b10fc0c7)] -> xpath: //input[@id='hp-search-btn']]<br>
+2023-07-01 00:07:260 INFO  ResultPage :24 - get resulttext [[ChromeDriver: chrome on WINDOWS (9607de299f365d28ea493f45b10fc0c7)] -> xpath: //h1[@class='search-header__title']]<br>
+2023-07-01 00:07:352 INFO  ResultPage :24 - get resulttext [[ChromeDriver: chrome on WINDOWS (9607de299f365d28ea493f45b10fc0c7)] -> xpath: //h1[@class='search-header__title']]<br>
+2023-07-01 00:07:370 INFO  ResultPage :31 - actualtext Permanent Test Manager jobs in London<br>

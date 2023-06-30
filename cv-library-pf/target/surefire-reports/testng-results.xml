@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-06-30T23:22:11 BST" name="testsuite" finished-at="2023-06-30T23:23:12 BST" duration-ms="61050">
+  <suite started-at="2023-07-01T00:10:53 BST" name="testsuite" finished-at="2023-07-01T00:11:55 BST" duration-ms="62560">
     <groups>
     </groups>
-    <test started-at="2023-06-30T23:22:11 BST" name="Login Test" finished-at="2023-06-30T23:23:12 BST" duration-ms="61050">
+    <test started-at="2023-07-01T00:10:53 BST" name="Login Test" finished-at="2023-07-01T00:11:55 BST" duration-ms="62560">
       <class name="cv.library.uk.testsuite.JobSearchTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:cv.library.uk.testsuite.JobSearchTest@5d908d47]" started-at="2023-06-30T23:22:11 BST" name="setUp" finished-at="2023-06-30T23:22:15 BST" duration-ms="4129" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:cv.library.uk.testsuite.JobSearchTest@5d908d47]" started-at="2023-07-01T00:10:53 BST" name="setUp" finished-at="2023-07-01T00:10:58 BST" duration-ms="5070" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="inIt()[pri:0, instance:cv.library.uk.testsuite.JobSearchTest@5d908d47]" started-at="2023-06-30T23:22:15 BST" name="inIt" finished-at="2023-06-30T23:22:15 BST" duration-ms="52" status="PASS">
+        <test-method is-config="true" signature="inIt()[pri:0, instance:cv.library.uk.testsuite.JobSearchTest@5d908d47]" started-at="2023-07-01T00:10:58 BST" name="inIt" finished-at="2023-07-01T00:10:58 BST" duration-ms="65" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- inIt -->
-        <test-method signature="verifyJobSearchResultUsingDifferentDataSet(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:cv.library.uk.testsuite.JobSearchTest@5d908d47]" started-at="2023-06-30T23:22:15 BST" name="verifyJobSearchResultUsingDifferentDataSet" data-provider="resultData" finished-at="2023-06-30T23:22:42 BST" duration-ms="26995" status="PASS">
+        <test-method signature="verifyJobSearchResultUsingDifferentDataSet(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:cv.library.uk.testsuite.JobSearchTest@5d908d47]" started-at="2023-07-01T00:10:58 BST" name="verifyJobSearchResultUsingDifferentDataSet" data-provider="resultData" finished-at="2023-07-01T00:11:25 BST" duration-ms="27133" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -61,19 +61,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyJobSearchResultUsingDifferentDataSet -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:cv.library.uk.testsuite.JobSearchTest@5d908d47]" started-at="2023-06-30T23:22:42 BST" name="tearDown" finished-at="2023-06-30T23:22:42 BST" duration-ms="370" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:cv.library.uk.testsuite.JobSearchTest@5d908d47]" started-at="2023-07-01T00:11:25 BST" name="tearDown" finished-at="2023-07-01T00:11:26 BST" duration-ms="389" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:cv.library.uk.testsuite.JobSearchTest@5d908d47]" started-at="2023-06-30T23:22:42 BST" name="setUp" finished-at="2023-06-30T23:22:45 BST" duration-ms="2199" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:cv.library.uk.testsuite.JobSearchTest@5d908d47]" started-at="2023-07-01T00:11:26 BST" name="setUp" finished-at="2023-07-01T00:11:29 BST" duration-ms="3032" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="inIt()[pri:0, instance:cv.library.uk.testsuite.JobSearchTest@5d908d47]" started-at="2023-06-30T23:22:45 BST" name="inIt" finished-at="2023-06-30T23:22:45 BST" duration-ms="14" status="PASS">
+        <test-method is-config="true" signature="inIt()[pri:0, instance:cv.library.uk.testsuite.JobSearchTest@5d908d47]" started-at="2023-07-01T00:11:29 BST" name="inIt" finished-at="2023-07-01T00:11:29 BST" duration-ms="18" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- inIt -->
-        <test-method signature="verifyJobSearchResultUsingDifferentDataSet(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:cv.library.uk.testsuite.JobSearchTest@5d908d47]" started-at="2023-06-30T23:22:45 BST" name="verifyJobSearchResultUsingDifferentDataSet" data-provider="resultData" finished-at="2023-06-30T23:23:11 BST" duration-ms="26648" status="PASS">
+        <test-method signature="verifyJobSearchResultUsingDifferentDataSet(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:cv.library.uk.testsuite.JobSearchTest@5d908d47]" started-at="2023-07-01T00:11:29 BST" name="verifyJobSearchResultUsingDifferentDataSet" data-provider="resultData" finished-at="2023-07-01T00:11:55 BST" duration-ms="26093" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -119,7 +119,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyJobSearchResultUsingDifferentDataSet -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:cv.library.uk.testsuite.JobSearchTest@5d908d47]" started-at="2023-06-30T23:23:11 BST" name="tearDown" finished-at="2023-06-30T23:23:12 BST" duration-ms="287" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:cv.library.uk.testsuite.JobSearchTest@5d908d47]" started-at="2023-07-01T00:11:55 BST" name="tearDown" finished-at="2023-07-01T00:11:55 BST" duration-ms="311" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

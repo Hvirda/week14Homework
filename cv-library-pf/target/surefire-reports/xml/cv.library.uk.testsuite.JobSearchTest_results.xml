@@ -4,11 +4,11 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="53.643">
+           time="53.226">
   <properties />
   
   
-            <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="26.995" classname="cv.library.uk.testsuite.JobSearchTest" />
-                <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="26.648" classname="cv.library.uk.testsuite.JobSearchTest" />
+            <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="27.133" classname="cv.library.uk.testsuite.JobSearchTest" />
+                <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="26.093" classname="cv.library.uk.testsuite.JobSearchTest" />
       
 </testsuite>
