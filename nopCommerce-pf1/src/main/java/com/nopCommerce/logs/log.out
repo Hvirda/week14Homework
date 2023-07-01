@@ -1,0 +1,93 @@
+2023-06-25 09:06:593 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (3c0492dd7fb226b514b8ee29f30ed1ab)] -> link text: Log in]
+2023-06-25 09:06:327 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (aab2f279a7e248cf2a7b895e8bcbf88d)] -> link text: Log in]
+2023-06-25 09:06:411 INFO  LoginPage :47 - getting text from : [[ChromeDriver: chrome on WINDOWS (aab2f279a7e248cf2a7b895e8bcbf88d)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-06-25 10:06:364 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (18291f940d3aea5ad78f4666ae7634e8)] -> link text: Log in]
+2023-06-25 10:06:385 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (d49fb3e7e995ceeb66c4755d482bdd37)] -> link text: Log in]
+2023-06-25 10:06:554 INFO  LoginPage :47 - getting text from : [[ChromeDriver: chrome on WINDOWS (d49fb3e7e995ceeb66c4755d482bdd37)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-06-25 10:06:263 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (574dd5cb369cc854424f7c760fd15d8f)] -> link text: Log in]
+2023-06-25 10:06:89 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (b8b213f425e08bfa759580ee4a331009)] -> link text: Log in]
+2023-06-25 10:06:428 INFO  LoginPage :47 - getting text from : [[ChromeDriver: chrome on WINDOWS (b8b213f425e08bfa759580ee4a331009)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-06-25 10:06:490 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (d8e7906f0b6b9526487c11665b3befdb)] -> link text: Log in]
+2023-06-25 10:06:346 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (4160d75c5644c16ddc1eff1227b7aacd)] -> link text: Log in]
+2023-06-25 10:06:331 INFO  LoginPage :47 - getting text from : [[ChromeDriver: chrome on WINDOWS (4160d75c5644c16ddc1eff1227b7aacd)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-06-25 10:06:561 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (8fce8fae54293bab448140c8540e50b0)] -> link text: Log in]
+2023-06-25 10:06:678 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (afe75845a421b80f0f914261954b37d5)] -> link text: Log in]
+2023-06-25 10:06:346 INFO  LoginPage :47 - getting text from : [[ChromeDriver: chrome on WINDOWS (afe75845a421b80f0f914261954b37d5)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-06-25 10:06:141 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (4520ca7252f3ef8681962b7cd7d3f61f)] -> link text: Log in]
+2023-06-25 10:06:191 INFO  LoginPage :47 - getting text from : [[ChromeDriver: chrome on WINDOWS (4520ca7252f3ef8681962b7cd7d3f61f)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-06-25 12:06:573 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (f1611d995c42464a4dad6297bda4e2de)] -> link text: Log in]
+2023-06-25 12:06:656 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (6dc78995c9de51aff8b1f321ec1ffb19)] -> link text: Log in]
+2023-06-25 12:06:20 INFO  LoginPage :47 - getting text from : [[ChromeDriver: chrome on WINDOWS (6dc78995c9de51aff8b1f321ec1ffb19)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-06-25 13:06:454 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (141e440c44f32480fcc9f3eb428c521c)] -> link text: Log in]
+2023-06-25 13:06:465 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (2a3fc2c388c76c8cfc19c8194c2265ac)] -> link text: Log in]
+2023-06-25 13:06:256 INFO  LoginPage :47 - getting text from : [[ChromeDriver: chrome on WINDOWS (2a3fc2c388c76c8cfc19c8194c2265ac)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-06-28 20:06:837 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (d49343888acb7bf52747640ae238b42c)] -> link text: Log in]
+2023-06-28 20:06:653 INFO  LoginPage :47 - getting text from : [[ChromeDriver: chrome on WINDOWS (d49343888acb7bf52747640ae238b42c)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-06-28 22:06:171 INFO  HomePage :95 - click on register link :[[ChromeDriver: chrome on WINDOWS (ac225003621e0b871c2bbd22793eba8b)] -> xpath: //div[@id='loginPanel']/p[2]/a]
+2023-06-28 22:06:517 INFO  HomePage :36 - Enter Firstname[[ChromeDriver: chrome on WINDOWS (ac225003621e0b871c2bbd22793eba8b)] -> xpath: //input[@id='customer.firstName']]
+2023-06-28 22:06:597 INFO  HomePage :100 - Enter laststnamedsa
+2023-06-28 22:06:660 INFO  HomePage :104 - address asdfgh
+2023-06-28 22:06:730 INFO  HomePage :108 - city asdfgh
+2023-06-28 22:06:797 INFO  HomePage :112 - state asfgdf
+2023-06-28 22:06:363 INFO  HomePage :95 - click on register link :[[ChromeDriver: chrome on WINDOWS (fc0c68e4760c4b390d4f75421acbcbfc)] -> xpath: //div[@id='loginPanel']/p[2]/a]
+2023-06-28 22:06:689 INFO  HomePage :36 - Enter Firstname[[ChromeDriver: chrome on WINDOWS (fc0c68e4760c4b390d4f75421acbcbfc)] -> xpath: //input[@id='customer.firstName']]
+2023-06-28 22:06:757 INFO  HomePage :100 - Enter laststnamedsa
+2023-06-28 22:06:824 INFO  HomePage :104 - address asdfgh
+2023-06-28 22:06:890 INFO  HomePage :108 - city asdfgh
+2023-06-28 22:06:958 INFO  HomePage :112 - state asfgdf
+2023-06-28 22:06:28 INFO  HomePage :116 - zipcode ha67tsa
+2023-06-28 22:06:106 INFO  HomePage :121 - Enter Firstname7756435678
+2023-06-28 22:06:176 INFO  HomePage :126 - Enter Firstname223
+2023-06-28 22:06:237 INFO  HomePage :131 - Enter FirstnameDDK
+2023-06-28 22:06:301 INFO  HomePage :135 - Enter FirstnameDDD@123
+2023-06-28 22:06:373 INFO  HomePage :140 - Enter FirstnameDDD@123
+2023-06-28 22:06:442 INFO  HomePage :146 - [[ChromeDriver: chrome on WINDOWS (fc0c68e4760c4b390d4f75421acbcbfc)] -> xpath: //div[3]/input[@class='button']]
+2023-06-28 22:06:459 INFO  HomePage :154 - enter unameDDK
+2023-06-28 22:06:519 INFO  HomePage :158 - enter unameDDD@123
+2023-06-28 22:06:584 INFO  HomePage :162 - [[ChromeDriver: chrome on WINDOWS (fc0c68e4760c4b390d4f75421acbcbfc)] -> xpath: //div/input[@class='button']]
+2023-06-30 10:06:127 INFO  ComputerPage :235 - get item text[[ChromeDriver: chrome on WINDOWS (3eae106e109731c5603fb2ed34a5a13a)] -> xpath: //div[@class='product-name']/h1]
+2023-06-30 10:06:173 INFO  ComputerPage :235 - get item text[[ChromeDriver: chrome on WINDOWS (3eae106e109731c5603fb2ed34a5a13a)] -> xpath: //div[@class='product-name']/h1]
+2023-06-30 10:06:196 INFO  ComputerPage :235 - get item text[[ChromeDriver: chrome on WINDOWS (3eae106e109731c5603fb2ed34a5a13a)] -> xpath: //div[@class='product-name']/h1]
+2023-06-30 10:06:252 INFO  ComputerPage :243 - item added msg [[ChromeDriver: chrome on WINDOWS (3eae106e109731c5603fb2ed34a5a13a)] -> id: product_attribute_1]
+2023-06-30 10:06:416 INFO  ComputerPage :248 - item added msg [[ChromeDriver: chrome on WINDOWS (3eae106e109731c5603fb2ed34a5a13a)] -> id: product_attribute_2]
+2023-06-30 10:06:733 INFO  ComputerPage :261 - price of product is [[ChromeDriver: chrome on WINDOWS (3eae106e109731c5603fb2ed34a5a13a)] -> xpath: //span[@id='price-value-1']]
+2023-06-30 22:06:859 INFO  ComputerPage :234 - get item text[[ChromeDriver: chrome on WINDOWS (3b66cba954f8e10e1540990e7303f775)] -> xpath: //div[@class='product-name']/h1]
+2023-06-30 22:06:887 INFO  ComputerPage :234 - get item text[[ChromeDriver: chrome on WINDOWS (3b66cba954f8e10e1540990e7303f775)] -> xpath: //div[@class='product-name']/h1]
+2023-06-30 22:06:898 INFO  ComputerPage :234 - get item text[[ChromeDriver: chrome on WINDOWS (3b66cba954f8e10e1540990e7303f775)] -> xpath: //div[@class='product-name']/h1]
+2023-06-30 22:06:928 INFO  ComputerPage :242 - item added msg [[ChromeDriver: chrome on WINDOWS (3b66cba954f8e10e1540990e7303f775)] -> id: product_attribute_1]
+2023-06-30 22:06:34 INFO  ComputerPage :247 - item added msg [[ChromeDriver: chrome on WINDOWS (3b66cba954f8e10e1540990e7303f775)] -> id: product_attribute_2]
+2023-06-30 22:06:257 INFO  ComputerPage :260 - price of product is [[ChromeDriver: chrome on WINDOWS (3b66cba954f8e10e1540990e7303f775)] -> xpath: //span[@id='price-value-1']]
+2023-06-30 22:06:647 INFO  ComputerPage :269 - item added msg [[ChromeDriver: chrome on WINDOWS (3b66cba954f8e10e1540990e7303f775)] -> xpath: //p[contains(text(),'The product has been added to your ')]]
+2023-06-30 22:06:318 INFO  ComputerPage :286 - shopping cart message [[ChromeDriver: chrome on WINDOWS (3b66cba954f8e10e1540990e7303f775)] -> xpath: //h1]<br>
+2023-06-30 22:06:985 INFO  ComputerPage :302 - total [[ChromeDriver: chrome on WINDOWS (3b66cba954f8e10e1540990e7303f775)] -> xpath: //span[@class='product-subtotal']]<br>
+2023-06-30 22:06:251 INFO  ComputerPage :325 - firstname [[ChromeDriver: chrome on WINDOWS (3b66cba954f8e10e1540990e7303f775)] -> id: BillingNewAddress_FirstName]<br>
+2023-06-30 22:06:327 INFO  ComputerPage :331 - lastname[[ChromeDriver: chrome on WINDOWS (3b66cba954f8e10e1540990e7303f775)] -> id: BillingNewAddress_LastName]<br>
+2023-06-30 22:06:419 INFO  ComputerPage :336 - email [[ChromeDriver: chrome on WINDOWS (3b66cba954f8e10e1540990e7303f775)] -> id: BillingNewAddress_Email]<br>
+2023-06-30 22:06:494 INFO  ComputerPage :341 - country[[ChromeDriver: chrome on WINDOWS (3b66cba954f8e10e1540990e7303f775)] -> id: BillingNewAddress_CountryId]<br>
+2023-06-30 22:06:589 INFO  ComputerPage :346 - state [[ChromeDriver: chrome on WINDOWS (3b66cba954f8e10e1540990e7303f775)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-06-30 22:06:804 INFO  ComputerPage :351 - city[[ChromeDriver: chrome on WINDOWS (3b66cba954f8e10e1540990e7303f775)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-06-30 22:06:959 INFO  ComputerPage :358 - address[[ChromeDriver: chrome on WINDOWS (3b66cba954f8e10e1540990e7303f775)] -> id: BillingNewAddress_Address1]<br>
+2023-06-30 22:06:974 INFO  ComputerPage :362 - zipcode[[ChromeDriver: chrome on WINDOWS (3b66cba954f8e10e1540990e7303f775)] -> id: BillingNewAddress_ZipPostalCode]<br>
+2023-06-30 22:06:894 INFO  ComputerPage :389 - creditcard [[ChromeDriver: chrome on WINDOWS (3b66cba954f8e10e1540990e7303f775)] -> xpath: //label[contains(text(),'Credit Card')]]<br>
+2023-06-30 22:06:839 INFO  ComputerPage :440 - placed successfull [[ChromeDriver: chrome on WINDOWS (3b66cba954f8e10e1540990e7303f775)] -> xpath: //div[@class='title']/strong[contains(text(),'Your order has been successfully processed!')]]<br>
+2023-06-30 22:06:291 INFO  ComputerPage :449 - navigate to another page after successfull order [[ChromeDriver: chrome on WINDOWS (3b66cba954f8e10e1540990e7303f775)] -> xpath: //h2]<br>
+2023-06-30 22:06:594 INFO  ComputerPage :234 - get item text[[ChromeDriver: chrome on WINDOWS (b4b9aef6b0c1c5d159a5126281ae779f)] -> xpath: //div[@class='product-name']/h1]
+2023-06-30 22:06:626 INFO  ComputerPage :234 - get item text[[ChromeDriver: chrome on WINDOWS (b4b9aef6b0c1c5d159a5126281ae779f)] -> xpath: //div[@class='product-name']/h1]
+2023-06-30 22:06:640 INFO  ComputerPage :234 - get item text[[ChromeDriver: chrome on WINDOWS (b4b9aef6b0c1c5d159a5126281ae779f)] -> xpath: //div[@class='product-name']/h1]
+2023-06-30 22:06:672 INFO  ComputerPage :242 - item added msg [[ChromeDriver: chrome on WINDOWS (b4b9aef6b0c1c5d159a5126281ae779f)] -> id: product_attribute_1]
+2023-06-30 22:06:787 INFO  ComputerPage :247 - item added msg [[ChromeDriver: chrome on WINDOWS (b4b9aef6b0c1c5d159a5126281ae779f)] -> id: product_attribute_2]
+2023-06-30 22:06:38 INFO  ComputerPage :260 - price of product is [[ChromeDriver: chrome on WINDOWS (b4b9aef6b0c1c5d159a5126281ae779f)] -> xpath: //span[@id='price-value-1']]
+2023-06-30 22:06:746 INFO  ComputerPage :269 - item added msg [[ChromeDriver: chrome on WINDOWS (b4b9aef6b0c1c5d159a5126281ae779f)] -> xpath: //p[contains(text(),'The product has been added to your ')]]
+2023-06-30 22:06:348 INFO  ComputerPage :286 - shopping cart message [[ChromeDriver: chrome on WINDOWS (b4b9aef6b0c1c5d159a5126281ae779f)] -> xpath: //h1]<br>
+2023-06-30 22:06:934 INFO  ComputerPage :302 - total [[ChromeDriver: chrome on WINDOWS (b4b9aef6b0c1c5d159a5126281ae779f)] -> xpath: //span[@class='product-subtotal']]<br>
+2023-06-30 22:06:144 INFO  ComputerPage :325 - firstname [[ChromeDriver: chrome on WINDOWS (b4b9aef6b0c1c5d159a5126281ae779f)] -> id: BillingNewAddress_FirstName]<br>
+2023-06-30 22:06:211 INFO  ComputerPage :331 - lastname[[ChromeDriver: chrome on WINDOWS (b4b9aef6b0c1c5d159a5126281ae779f)] -> id: BillingNewAddress_LastName]<br>
+2023-06-30 22:06:301 INFO  ComputerPage :336 - email [[ChromeDriver: chrome on WINDOWS (b4b9aef6b0c1c5d159a5126281ae779f)] -> id: BillingNewAddress_Email]<br>
+2023-06-30 22:06:385 INFO  ComputerPage :341 - country[[ChromeDriver: chrome on WINDOWS (b4b9aef6b0c1c5d159a5126281ae779f)] -> id: BillingNewAddress_CountryId]<br>
+2023-06-30 22:06:487 INFO  ComputerPage :346 - state [[ChromeDriver: chrome on WINDOWS (b4b9aef6b0c1c5d159a5126281ae779f)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-06-30 22:06:689 INFO  ComputerPage :351 - city[[ChromeDriver: chrome on WINDOWS (b4b9aef6b0c1c5d159a5126281ae779f)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-06-30 22:06:827 INFO  ComputerPage :358 - address[[ChromeDriver: chrome on WINDOWS (b4b9aef6b0c1c5d159a5126281ae779f)] -> id: BillingNewAddress_Address1]<br>
+2023-06-30 22:06:842 INFO  ComputerPage :362 - zipcode[[ChromeDriver: chrome on WINDOWS (b4b9aef6b0c1c5d159a5126281ae779f)] -> id: BillingNewAddress_ZipPostalCode]<br>
+2023-06-30 22:06:755 INFO  ComputerPage :389 - creditcard [[ChromeDriver: chrome on WINDOWS (b4b9aef6b0c1c5d159a5126281ae779f)] -> xpath: //label[contains(text(),'Credit Card')]]<br>
+2023-06-30 22:06:686 INFO  ComputerPage :440 - placed successfull [[ChromeDriver: chrome on WINDOWS (b4b9aef6b0c1c5d159a5126281ae779f)] -> xpath: //div[@class='title']/strong[contains(text(),'Your order has been successfully processed!')]]<br>
+2023-06-30 22:06:104 INFO  ComputerPage :449 - navigate to another page after successfull order [[ChromeDriver: chrome on WINDOWS (b4b9aef6b0c1c5d159a5126281ae779f)] -> xpath: //h2]<br>
