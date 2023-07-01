@@ -91,3 +91,23 @@
 2023-06-30 22:06:755 INFO  ComputerPage :389 - creditcard [[ChromeDriver: chrome on WINDOWS (b4b9aef6b0c1c5d159a5126281ae779f)] -> xpath: //label[contains(text(),'Credit Card')]]<br>
 2023-06-30 22:06:686 INFO  ComputerPage :440 - placed successfull [[ChromeDriver: chrome on WINDOWS (b4b9aef6b0c1c5d159a5126281ae779f)] -> xpath: //div[@class='title']/strong[contains(text(),'Your order has been successfully processed!')]]<br>
 2023-06-30 22:06:104 INFO  ComputerPage :449 - navigate to another page after successfull order [[ChromeDriver: chrome on WINDOWS (b4b9aef6b0c1c5d159a5126281ae779f)] -> xpath: //h2]<br>
+2023-07-01 21:07:873 INFO  ComputerPage :234 - get item text[[ChromeDriver: chrome on WINDOWS (57c8f1b7030981815fa839dd77b69c63)] -> xpath: //div[@class='product-name']/h1]
+2023-07-01 21:07:919 INFO  ComputerPage :234 - get item text[[ChromeDriver: chrome on WINDOWS (57c8f1b7030981815fa839dd77b69c63)] -> xpath: //div[@class='product-name']/h1]
+2023-07-01 21:07:942 INFO  ComputerPage :234 - get item text[[ChromeDriver: chrome on WINDOWS (57c8f1b7030981815fa839dd77b69c63)] -> xpath: //div[@class='product-name']/h1]
+2023-07-01 21:07:986 INFO  ComputerPage :242 - item added msg [[ChromeDriver: chrome on WINDOWS (57c8f1b7030981815fa839dd77b69c63)] -> id: product_attribute_1]
+2023-07-01 21:07:151 INFO  ComputerPage :247 - item added msg [[ChromeDriver: chrome on WINDOWS (57c8f1b7030981815fa839dd77b69c63)] -> id: product_attribute_2]
+2023-07-01 21:07:566 INFO  ComputerPage :260 - price of product is [[ChromeDriver: chrome on WINDOWS (57c8f1b7030981815fa839dd77b69c63)] -> xpath: //span[@id='price-value-1']]
+2023-07-01 21:07:982 INFO  ComputerPage :269 - item added msg [[ChromeDriver: chrome on WINDOWS (57c8f1b7030981815fa839dd77b69c63)] -> xpath: //p[contains(text(),'The product has been added to your ')]]
+2023-07-01 21:07:281 INFO  ComputerPage :286 - shopping cart message [[ChromeDriver: chrome on WINDOWS (57c8f1b7030981815fa839dd77b69c63)] -> xpath: //h1]<br>
+2023-07-01 21:07:176 INFO  ComputerPage :302 - total [[ChromeDriver: chrome on WINDOWS (57c8f1b7030981815fa839dd77b69c63)] -> xpath: //span[@class='product-subtotal']]<br>
+2023-07-01 21:07:243 INFO  ComputerPage :325 - firstname [[ChromeDriver: chrome on WINDOWS (57c8f1b7030981815fa839dd77b69c63)] -> id: BillingNewAddress_FirstName]<br>
+2023-07-01 21:07:391 INFO  ComputerPage :331 - lastname[[ChromeDriver: chrome on WINDOWS (57c8f1b7030981815fa839dd77b69c63)] -> id: BillingNewAddress_LastName]<br>
+2023-07-01 21:07:539 INFO  ComputerPage :336 - email [[ChromeDriver: chrome on WINDOWS (57c8f1b7030981815fa839dd77b69c63)] -> id: BillingNewAddress_Email]<br>
+2023-07-01 21:07:677 INFO  ComputerPage :341 - country[[ChromeDriver: chrome on WINDOWS (57c8f1b7030981815fa839dd77b69c63)] -> id: BillingNewAddress_CountryId]<br>
+2023-07-01 21:07:849 INFO  ComputerPage :346 - state [[ChromeDriver: chrome on WINDOWS (57c8f1b7030981815fa839dd77b69c63)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-07-01 21:07:159 INFO  ComputerPage :351 - city[[ChromeDriver: chrome on WINDOWS (57c8f1b7030981815fa839dd77b69c63)] -> id: BillingNewAddress_StateProvinceId]<br>
+2023-07-01 21:07:465 INFO  ComputerPage :358 - address[[ChromeDriver: chrome on WINDOWS (57c8f1b7030981815fa839dd77b69c63)] -> id: BillingNewAddress_Address1]<br>
+2023-07-01 21:07:492 INFO  ComputerPage :362 - zipcode[[ChromeDriver: chrome on WINDOWS (57c8f1b7030981815fa839dd77b69c63)] -> id: BillingNewAddress_ZipPostalCode]<br>
+2023-07-01 21:07:970 INFO  ComputerPage :389 - creditcard [[ChromeDriver: chrome on WINDOWS (57c8f1b7030981815fa839dd77b69c63)] -> xpath: //label[contains(text(),'Credit Card')]]<br>
+2023-07-01 21:07:580 INFO  ComputerPage :440 - placed successfull [[ChromeDriver: chrome on WINDOWS (57c8f1b7030981815fa839dd77b69c63)] -> xpath: //div[@class='title']/strong[contains(text(),'Your order has been successfully processed!')]]<br>
+2023-07-01 21:07:65 INFO  ComputerPage :449 - navigate to another page after successfull order [[ChromeDriver: chrome on WINDOWS (57c8f1b7030981815fa839dd77b69c63)] -> xpath: //h2]<br>
