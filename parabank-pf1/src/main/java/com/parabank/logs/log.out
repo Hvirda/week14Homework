@@ -83,3 +83,22 @@
 2023-06-30 23:06:919 INFO  RegisterPage :95 - click on register link :[[ChromeDriver: chrome on WINDOWS (435ca028842989204449eb40bfe337e0)] -> xpath: //div[@id='loginPanel']/p[2]/a]
 2023-06-30 23:06:258 INFO  RegisterPage :28 - get welcome text[[ChromeDriver: chrome on WINDOWS (435ca028842989204449eb40bfe337e0)] -> xpath: //h2]
 2023-06-30 23:06:283 INFO  RegisterPage :28 - get welcome text[[ChromeDriver: chrome on WINDOWS (435ca028842989204449eb40bfe337e0)] -> xpath: //h2]
+2023-07-01 21:07:26 INFO  RegisterPage :95 - click on register link :[[ChromeDriver: chrome on WINDOWS (a9f60b1866e67341b1470551931c5e56)] -> xpath: //div[@id='loginPanel']/p[2]/a]
+2023-07-01 21:07:773 INFO  RegisterPage :36 - Enter Firstname[[ChromeDriver: chrome on WINDOWS (a9f60b1866e67341b1470551931c5e56)] -> xpath: //input[@id='customer.firstName']]
+2023-07-01 21:07:913 INFO  RegisterPage :100 - Enter laststnamedsa
+2023-07-01 21:07:33 INFO  RegisterPage :104 - address asdfgh
+2023-07-01 21:07:178 INFO  RegisterPage :108 - city asdfgh
+2023-07-01 21:07:313 INFO  RegisterPage :112 - state asfgdf
+2023-07-01 21:07:428 INFO  RegisterPage :116 - zipcode ha67tsa
+2023-07-01 21:07:546 INFO  RegisterPage :121 - Enter Firstname7756435678
+2023-07-01 21:07:683 INFO  RegisterPage :126 - Enter Firstname223
+2023-07-01 21:07:846 INFO  RegisterPage :131 - Enter FirstnameDDK
+2023-07-01 21:07:994 INFO  RegisterPage :135 - Enter FirstnameDDD@123
+2023-07-01 21:07:123 INFO  RegisterPage :140 - Enter FirstnameDDD@123
+2023-07-01 21:07:250 INFO  RegisterPage :146 - [[ChromeDriver: chrome on WINDOWS (a9f60b1866e67341b1470551931c5e56)] -> xpath: //div[3]/input[@class='button']]
+2023-07-01 21:07:272 INFO  RegisterPage :154 - enter unameDDK
+2023-07-01 21:07:396 INFO  RegisterPage :158 - enter unameDDD@123
+2023-07-01 21:07:538 INFO  RegisterPage :162 - [[ChromeDriver: chrome on WINDOWS (a9f60b1866e67341b1470551931c5e56)] -> xpath: //div/input[@class='button']]
+2023-07-01 21:07:683 INFO  RegisterPage :95 - click on register link :[[ChromeDriver: chrome on WINDOWS (64a0082c0e3a370b8b66fabecce0910e)] -> xpath: //div[@id='loginPanel']/p[2]/a]
+2023-07-01 21:07:783 INFO  RegisterPage :28 - get welcome text[[ChromeDriver: chrome on WINDOWS (64a0082c0e3a370b8b66fabecce0910e)] -> xpath: //h2]
+2023-07-01 21:07:828 INFO  RegisterPage :28 - get welcome text[[ChromeDriver: chrome on WINDOWS (64a0082c0e3a370b8b66fabecce0910e)] -> xpath: //h2]

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Login Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.799">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldNavigateToRegisterPage" time="2.181" classname="com.parabank.testsuite.RegisterPageTest" />
+                <testcase name="verifyThatSigningUpPageDisplay" time="3.618" classname="com.parabank.testsuite.RegisterPageTest" />
+      
+</testsuite>
