@@ -1,0 +1,85 @@
+2023-06-25 09:06:593 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (3c0492dd7fb226b514b8ee29f30ed1ab)] -> link text: Log in]
+2023-06-25 09:06:327 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (aab2f279a7e248cf2a7b895e8bcbf88d)] -> link text: Log in]
+2023-06-25 09:06:411 INFO  LoginPage :47 - getting text from : [[ChromeDriver: chrome on WINDOWS (aab2f279a7e248cf2a7b895e8bcbf88d)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-06-25 10:06:364 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (18291f940d3aea5ad78f4666ae7634e8)] -> link text: Log in]
+2023-06-25 10:06:385 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (d49fb3e7e995ceeb66c4755d482bdd37)] -> link text: Log in]
+2023-06-25 10:06:554 INFO  LoginPage :47 - getting text from : [[ChromeDriver: chrome on WINDOWS (d49fb3e7e995ceeb66c4755d482bdd37)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-06-25 10:06:263 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (574dd5cb369cc854424f7c760fd15d8f)] -> link text: Log in]
+2023-06-25 10:06:89 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (b8b213f425e08bfa759580ee4a331009)] -> link text: Log in]
+2023-06-25 10:06:428 INFO  LoginPage :47 - getting text from : [[ChromeDriver: chrome on WINDOWS (b8b213f425e08bfa759580ee4a331009)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-06-25 10:06:490 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (d8e7906f0b6b9526487c11665b3befdb)] -> link text: Log in]
+2023-06-25 10:06:346 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (4160d75c5644c16ddc1eff1227b7aacd)] -> link text: Log in]
+2023-06-25 10:06:331 INFO  LoginPage :47 - getting text from : [[ChromeDriver: chrome on WINDOWS (4160d75c5644c16ddc1eff1227b7aacd)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-06-25 10:06:561 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (8fce8fae54293bab448140c8540e50b0)] -> link text: Log in]
+2023-06-25 10:06:678 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (afe75845a421b80f0f914261954b37d5)] -> link text: Log in]
+2023-06-25 10:06:346 INFO  LoginPage :47 - getting text from : [[ChromeDriver: chrome on WINDOWS (afe75845a421b80f0f914261954b37d5)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-06-25 10:06:141 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (4520ca7252f3ef8681962b7cd7d3f61f)] -> link text: Log in]
+2023-06-25 10:06:191 INFO  LoginPage :47 - getting text from : [[ChromeDriver: chrome on WINDOWS (4520ca7252f3ef8681962b7cd7d3f61f)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-06-25 12:06:573 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (f1611d995c42464a4dad6297bda4e2de)] -> link text: Log in]
+2023-06-25 12:06:656 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (6dc78995c9de51aff8b1f321ec1ffb19)] -> link text: Log in]
+2023-06-25 12:06:20 INFO  LoginPage :47 - getting text from : [[ChromeDriver: chrome on WINDOWS (6dc78995c9de51aff8b1f321ec1ffb19)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-06-25 13:06:454 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (141e440c44f32480fcc9f3eb428c521c)] -> link text: Log in]
+2023-06-25 13:06:465 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (2a3fc2c388c76c8cfc19c8194c2265ac)] -> link text: Log in]
+2023-06-25 13:06:256 INFO  LoginPage :47 - getting text from : [[ChromeDriver: chrome on WINDOWS (2a3fc2c388c76c8cfc19c8194c2265ac)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-06-28 20:06:837 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (d49343888acb7bf52747640ae238b42c)] -> link text: Log in]
+2023-06-28 20:06:653 INFO  LoginPage :47 - getting text from : [[ChromeDriver: chrome on WINDOWS (d49343888acb7bf52747640ae238b42c)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-06-28 22:06:171 INFO  HomePage :95 - click on register link :[[ChromeDriver: chrome on WINDOWS (ac225003621e0b871c2bbd22793eba8b)] -> xpath: //div[@id='loginPanel']/p[2]/a]
+2023-06-28 22:06:517 INFO  HomePage :36 - Enter Firstname[[ChromeDriver: chrome on WINDOWS (ac225003621e0b871c2bbd22793eba8b)] -> xpath: //input[@id='customer.firstName']]
+2023-06-28 22:06:597 INFO  HomePage :100 - Enter laststnamedsa
+2023-06-28 22:06:660 INFO  HomePage :104 - address asdfgh
+2023-06-28 22:06:730 INFO  HomePage :108 - city asdfgh
+2023-06-28 22:06:797 INFO  HomePage :112 - state asfgdf
+2023-06-28 22:06:363 INFO  HomePage :95 - click on register link :[[ChromeDriver: chrome on WINDOWS (fc0c68e4760c4b390d4f75421acbcbfc)] -> xpath: //div[@id='loginPanel']/p[2]/a]
+2023-06-28 22:06:689 INFO  HomePage :36 - Enter Firstname[[ChromeDriver: chrome on WINDOWS (fc0c68e4760c4b390d4f75421acbcbfc)] -> xpath: //input[@id='customer.firstName']]
+2023-06-28 22:06:757 INFO  HomePage :100 - Enter laststnamedsa
+2023-06-28 22:06:824 INFO  HomePage :104 - address asdfgh
+2023-06-28 22:06:890 INFO  HomePage :108 - city asdfgh
+2023-06-28 22:06:958 INFO  HomePage :112 - state asfgdf
+2023-06-28 22:06:28 INFO  HomePage :116 - zipcode ha67tsa
+2023-06-28 22:06:106 INFO  HomePage :121 - Enter Firstname7756435678
+2023-06-28 22:06:176 INFO  HomePage :126 - Enter Firstname223
+2023-06-28 22:06:237 INFO  HomePage :131 - Enter FirstnameDDK
+2023-06-28 22:06:301 INFO  HomePage :135 - Enter FirstnameDDD@123
+2023-06-28 22:06:373 INFO  HomePage :140 - Enter FirstnameDDD@123
+2023-06-28 22:06:442 INFO  HomePage :146 - [[ChromeDriver: chrome on WINDOWS (fc0c68e4760c4b390d4f75421acbcbfc)] -> xpath: //div[3]/input[@class='button']]
+2023-06-28 22:06:459 INFO  HomePage :154 - enter unameDDK
+2023-06-28 22:06:519 INFO  HomePage :158 - enter unameDDD@123
+2023-06-28 22:06:584 INFO  HomePage :162 - [[ChromeDriver: chrome on WINDOWS (fc0c68e4760c4b390d4f75421acbcbfc)] -> xpath: //div/input[@class='button']]
+2023-06-30 23:06:929 INFO  RegisterPage :95 - click on register link :[[ChromeDriver: chrome on WINDOWS (594934c51486fbb9a9a53dae44175110)] -> xpath: //div[@id='loginPanel']/p[2]/a]
+2023-06-30 23:06:282 INFO  RegisterPage :36 - Enter Firstname[[ChromeDriver: chrome on WINDOWS (594934c51486fbb9a9a53dae44175110)] -> xpath: //input[@id='customer.firstName']]
+2023-06-30 23:06:355 INFO  RegisterPage :100 - Enter laststnamedsa
+2023-06-30 23:06:426 INFO  RegisterPage :104 - address asdfgh
+2023-06-30 23:06:481 INFO  RegisterPage :108 - city asdfgh
+2023-06-30 23:06:536 INFO  RegisterPage :112 - state asfgdf
+2023-06-30 23:06:592 INFO  RegisterPage :116 - zipcode ha67tsa
+2023-06-30 23:06:656 INFO  RegisterPage :121 - Enter Firstname7756435678
+2023-06-30 23:06:719 INFO  RegisterPage :126 - Enter Firstname223
+2023-06-30 23:06:777 INFO  RegisterPage :131 - Enter FirstnameDDK
+2023-06-30 23:06:833 INFO  RegisterPage :135 - Enter FirstnameDDD@123
+2023-06-30 23:06:905 INFO  RegisterPage :140 - Enter FirstnameDDD@123
+2023-06-30 23:06:971 INFO  RegisterPage :146 - [[ChromeDriver: chrome on WINDOWS (594934c51486fbb9a9a53dae44175110)] -> xpath: //div[3]/input[@class='button']]
+2023-06-30 23:06:985 INFO  RegisterPage :154 - enter unameDDK
+2023-06-30 23:06:43 INFO  RegisterPage :158 - enter unameDDD@123
+2023-06-30 23:06:102 INFO  RegisterPage :162 - [[ChromeDriver: chrome on WINDOWS (594934c51486fbb9a9a53dae44175110)] -> xpath: //div/input[@class='button']]
+2023-06-30 23:06:498 INFO  RegisterPage :95 - click on register link :[[ChromeDriver: chrome on WINDOWS (ca91276514e601d8f83b5db20248e91b)] -> xpath: //div[@id='loginPanel']/p[2]/a]
+2023-06-30 23:06:828 INFO  RegisterPage :28 - get welcome text[[ChromeDriver: chrome on WINDOWS (ca91276514e601d8f83b5db20248e91b)] -> xpath: //h2]
+2023-06-30 23:06:858 INFO  RegisterPage :28 - get welcome text[[ChromeDriver: chrome on WINDOWS (ca91276514e601d8f83b5db20248e91b)] -> xpath: //h2]
+2023-06-30 23:06:786 INFO  RegisterPage :95 - click on register link :[[ChromeDriver: chrome on WINDOWS (c3aa51f081b490dd8e698f67d9caded0)] -> xpath: //div[@id='loginPanel']/p[2]/a]
+2023-06-30 23:06:128 INFO  RegisterPage :36 - Enter Firstname[[ChromeDriver: chrome on WINDOWS (c3aa51f081b490dd8e698f67d9caded0)] -> xpath: //input[@id='customer.firstName']]
+2023-06-30 23:06:230 INFO  RegisterPage :100 - Enter laststnamedsa
+2023-06-30 23:06:325 INFO  RegisterPage :104 - address asdfgh
+2023-06-30 23:06:403 INFO  RegisterPage :108 - city asdfgh
+2023-06-30 23:06:463 INFO  RegisterPage :112 - state asfgdf
+2023-06-30 23:06:521 INFO  RegisterPage :116 - zipcode ha67tsa
+2023-06-30 23:06:584 INFO  RegisterPage :121 - Enter Firstname7756435678
+2023-06-30 23:06:640 INFO  RegisterPage :126 - Enter Firstname223
+2023-06-30 23:06:699 INFO  RegisterPage :131 - Enter FirstnameDDK
+2023-06-30 23:06:756 INFO  RegisterPage :135 - Enter FirstnameDDD@123
+2023-06-30 23:06:816 INFO  RegisterPage :140 - Enter FirstnameDDD@123
+2023-06-30 23:06:886 INFO  RegisterPage :146 - [[ChromeDriver: chrome on WINDOWS (c3aa51f081b490dd8e698f67d9caded0)] -> xpath: //div[3]/input[@class='button']]
+2023-06-30 23:06:901 INFO  RegisterPage :154 - enter unameDDK
+2023-06-30 23:06:962 INFO  RegisterPage :158 - enter unameDDD@123
+2023-06-30 23:06:28 INFO  RegisterPage :162 - [[ChromeDriver: chrome on WINDOWS (c3aa51f081b490dd8e698f67d9caded0)] -> xpath: //div/input[@class='button']]
+2023-06-30 23:06:919 INFO  RegisterPage :95 - click on register link :[[ChromeDriver: chrome on WINDOWS (435ca028842989204449eb40bfe337e0)] -> xpath: //div[@id='loginPanel']/p[2]/a]
+2023-06-30 23:06:258 INFO  RegisterPage :28 - get welcome text[[ChromeDriver: chrome on WINDOWS (435ca028842989204449eb40bfe337e0)] -> xpath: //h2]
+2023-06-30 23:06:283 INFO  RegisterPage :28 - get welcome text[[ChromeDriver: chrome on WINDOWS (435ca028842989204449eb40bfe337e0)] -> xpath: //h2]
