@@ -1,0 +1,334 @@
+2023-06-25 09:06:593 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (3c0492dd7fb226b514b8ee29f30ed1ab)] -> link text: Log in]
+2023-06-25 09:06:327 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (aab2f279a7e248cf2a7b895e8bcbf88d)] -> link text: Log in]
+2023-06-25 09:06:411 INFO  LoginPage :47 - getting text from : [[ChromeDriver: chrome on WINDOWS (aab2f279a7e248cf2a7b895e8bcbf88d)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-06-25 10:06:364 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (18291f940d3aea5ad78f4666ae7634e8)] -> link text: Log in]
+2023-06-25 10:06:385 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (d49fb3e7e995ceeb66c4755d482bdd37)] -> link text: Log in]
+2023-06-25 10:06:554 INFO  LoginPage :47 - getting text from : [[ChromeDriver: chrome on WINDOWS (d49fb3e7e995ceeb66c4755d482bdd37)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-06-25 10:06:263 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (574dd5cb369cc854424f7c760fd15d8f)] -> link text: Log in]
+2023-06-25 10:06:89 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (b8b213f425e08bfa759580ee4a331009)] -> link text: Log in]
+2023-06-25 10:06:428 INFO  LoginPage :47 - getting text from : [[ChromeDriver: chrome on WINDOWS (b8b213f425e08bfa759580ee4a331009)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-06-25 10:06:490 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (d8e7906f0b6b9526487c11665b3befdb)] -> link text: Log in]
+2023-06-25 10:06:346 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (4160d75c5644c16ddc1eff1227b7aacd)] -> link text: Log in]
+2023-06-25 10:06:331 INFO  LoginPage :47 - getting text from : [[ChromeDriver: chrome on WINDOWS (4160d75c5644c16ddc1eff1227b7aacd)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-06-25 10:06:561 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (8fce8fae54293bab448140c8540e50b0)] -> link text: Log in]
+2023-06-25 10:06:678 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (afe75845a421b80f0f914261954b37d5)] -> link text: Log in]
+2023-06-25 10:06:346 INFO  LoginPage :47 - getting text from : [[ChromeDriver: chrome on WINDOWS (afe75845a421b80f0f914261954b37d5)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-06-25 10:06:141 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (4520ca7252f3ef8681962b7cd7d3f61f)] -> link text: Log in]
+2023-06-25 10:06:191 INFO  LoginPage :47 - getting text from : [[ChromeDriver: chrome on WINDOWS (4520ca7252f3ef8681962b7cd7d3f61f)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-06-25 12:06:573 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (f1611d995c42464a4dad6297bda4e2de)] -> link text: Log in]
+2023-06-25 12:06:656 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (6dc78995c9de51aff8b1f321ec1ffb19)] -> link text: Log in]
+2023-06-25 12:06:20 INFO  LoginPage :47 - getting text from : [[ChromeDriver: chrome on WINDOWS (6dc78995c9de51aff8b1f321ec1ffb19)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-06-25 13:06:454 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (141e440c44f32480fcc9f3eb428c521c)] -> link text: Log in]
+2023-06-25 13:06:465 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (2a3fc2c388c76c8cfc19c8194c2265ac)] -> link text: Log in]
+2023-06-25 13:06:256 INFO  LoginPage :47 - getting text from : [[ChromeDriver: chrome on WINDOWS (2a3fc2c388c76c8cfc19c8194c2265ac)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-06-28 20:06:837 INFO  HomePage :31 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (d49343888acb7bf52747640ae238b42c)] -> link text: Log in]
+2023-06-28 20:06:653 INFO  LoginPage :47 - getting text from : [[ChromeDriver: chrome on WINDOWS (d49343888acb7bf52747640ae238b42c)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-06-28 22:06:171 INFO  HomePage :95 - click on register link :[[ChromeDriver: chrome on WINDOWS (ac225003621e0b871c2bbd22793eba8b)] -> xpath: //div[@id='loginPanel']/p[2]/a]
+2023-06-28 22:06:517 INFO  HomePage :36 - Enter Firstname[[ChromeDriver: chrome on WINDOWS (ac225003621e0b871c2bbd22793eba8b)] -> xpath: //input[@id='customer.firstName']]
+2023-06-28 22:06:597 INFO  HomePage :100 - Enter laststnamedsa
+2023-06-28 22:06:660 INFO  HomePage :104 - address asdfgh
+2023-06-28 22:06:730 INFO  HomePage :108 - city asdfgh
+2023-06-28 22:06:797 INFO  HomePage :112 - state asfgdf
+2023-06-28 22:06:363 INFO  HomePage :95 - click on register link :[[ChromeDriver: chrome on WINDOWS (fc0c68e4760c4b390d4f75421acbcbfc)] -> xpath: //div[@id='loginPanel']/p[2]/a]
+2023-06-28 22:06:689 INFO  HomePage :36 - Enter Firstname[[ChromeDriver: chrome on WINDOWS (fc0c68e4760c4b390d4f75421acbcbfc)] -> xpath: //input[@id='customer.firstName']]
+2023-06-28 22:06:757 INFO  HomePage :100 - Enter laststnamedsa
+2023-06-28 22:06:824 INFO  HomePage :104 - address asdfgh
+2023-06-28 22:06:890 INFO  HomePage :108 - city asdfgh
+2023-06-28 22:06:958 INFO  HomePage :112 - state asfgdf
+2023-06-28 22:06:28 INFO  HomePage :116 - zipcode ha67tsa
+2023-06-28 22:06:106 INFO  HomePage :121 - Enter Firstname7756435678
+2023-06-28 22:06:176 INFO  HomePage :126 - Enter Firstname223
+2023-06-28 22:06:237 INFO  HomePage :131 - Enter FirstnameDDK
+2023-06-28 22:06:301 INFO  HomePage :135 - Enter FirstnameDDD@123
+2023-06-28 22:06:373 INFO  HomePage :140 - Enter FirstnameDDD@123
+2023-06-28 22:06:442 INFO  HomePage :146 - [[ChromeDriver: chrome on WINDOWS (fc0c68e4760c4b390d4f75421acbcbfc)] -> xpath: //div[3]/input[@class='button']]
+2023-06-28 22:06:459 INFO  HomePage :154 - enter unameDDK
+2023-06-28 22:06:519 INFO  HomePage :158 - enter unameDDD@123
+2023-06-28 22:06:584 INFO  HomePage :162 - [[ChromeDriver: chrome on WINDOWS (fc0c68e4760c4b390d4f75421acbcbfc)] -> xpath: //div/input[@class='button']]
+2023-06-30 11:06:757 INFO  HomePage :41 - mousehover desktop [[ChromeDriver: chrome on WINDOWS (b519e5d1291ba922cd6a59d127db2980)] -> xpath: //li[1]/a[@class='dropdown-toggle']]<br>
+2023-06-30 11:06:923 INFO  HomePage :46 - welcome text desktop [[ChromeDriver: chrome on WINDOWS (b519e5d1291ba922cd6a59d127db2980)] -> xpath: //h2]<br>
+2023-06-30 11:06:983 INFO  DesktopPage :79 - sort a to z[[ChromeDriver: chrome on WINDOWS (b519e5d1291ba922cd6a59d127db2980)] -> xpath: //select[@id='input-sort']]<br>
+2023-06-30 11:06:90 INFO  DesktopPage :87 - item text [[ChromeDriver: chrome on WINDOWS (b519e5d1291ba922cd6a59d127db2980)] -> xpath: //h1[contains(text(),'HP LP3065')]]<br>
+2023-06-30 11:06:291 INFO  DesktopPage :123 - [[ChromeDriver: chrome on WINDOWS (b519e5d1291ba922cd6a59d127db2980)] -> xpath: //div[@class='alert alert-success alert-dismissible']]<br>
+2023-06-30 11:06:820 INFO  DesktopPage :134 - product name [[ChromeDriver: chrome on WINDOWS (b519e5d1291ba922cd6a59d127db2980)] -> link text: HP LP3065]<br>
+2023-06-30 11:06:851 INFO  DesktopPage :134 - product name [[ChromeDriver: chrome on WINDOWS (b519e5d1291ba922cd6a59d127db2980)] -> link text: HP LP3065]<br>
+2023-06-30 11:06:891 INFO  DesktopPage :138 - Total [[ChromeDriver: chrome on WINDOWS (b519e5d1291ba922cd6a59d127db2980)] -> xpath: //li/table/tbody/tr/td[5]]<br>
+2023-06-30 11:06:911 INFO  DesktopPage :138 - Total [[ChromeDriver: chrome on WINDOWS (b519e5d1291ba922cd6a59d127db2980)] -> xpath: //li/table/tbody/tr/td[5]]<br>
+2023-06-30 11:06:932 INFO  DesktopPage :138 - Total [[ChromeDriver: chrome on WINDOWS (b519e5d1291ba922cd6a59d127db2980)] -> xpath: //li/table/tbody/tr/td[5]]<br>
+2023-06-30 11:06:776 INFO  HomePage :41 - mousehover desktop [[ChromeDriver: chrome on WINDOWS (348db7e8ddf23dec14829296adb5c0ab)] -> xpath: //li[1]/a[@class='dropdown-toggle']]<br>
+2023-06-30 11:06:570 INFO  HomePage :46 - welcome text desktop [[ChromeDriver: chrome on WINDOWS (348db7e8ddf23dec14829296adb5c0ab)] -> xpath: //h2]<br>
+2023-06-30 11:06:636 INFO  DesktopPage :74 - sort z to a[[ChromeDriver: chrome on WINDOWS (348db7e8ddf23dec14829296adb5c0ab)] -> xpath: //select[@id='input-sort']]<br>
+2023-06-30 11:06:944 INFO  HomePage :41 - mousehover desktop [[ChromeDriver: chrome on WINDOWS (6a48580ecbe41a827e2d0c1d2d40fbc9)] -> xpath: //li[1]/a[@class='dropdown-toggle']]<br>
+2023-06-30 11:06:102 INFO  HomePage :46 - welcome text desktop [[ChromeDriver: chrome on WINDOWS (6a48580ecbe41a827e2d0c1d2d40fbc9)] -> xpath: //h2]<br>
+2023-06-30 11:06:130 INFO  HomePage :46 - welcome text desktop [[ChromeDriver: chrome on WINDOWS (6a48580ecbe41a827e2d0c1d2d40fbc9)] -> xpath: //h2]<br>
+2023-06-30 11:06:780 INFO  MyAccountPage :96 - my account[[ChromeDriver: chrome on WINDOWS (36619df07c37444451ade454b51fb5e4)] -> link text: My Account]<br>
+2023-06-30 11:06:517 INFO  MyAccountPage :100 - register [[ChromeDriver: chrome on WINDOWS (36619df07c37444451ade454b51fb5e4)] -> link text: Register]<br>
+2023-06-30 11:06:219 INFO  MyAccountPage :108 - firstname[[ChromeDriver: chrome on WINDOWS (36619df07c37444451ade454b51fb5e4)] -> id: input-firstname]<br>
+2023-06-30 11:06:363 INFO  MyAccountPage :113 - lastname[[ChromeDriver: chrome on WINDOWS (36619df07c37444451ade454b51fb5e4)] -> id: input-lastname]<br>
+2023-06-30 11:06:477 INFO  MyAccountPage :118 - email [[ChromeDriver: chrome on WINDOWS (36619df07c37444451ade454b51fb5e4)] -> id: input-email]<br>
+2023-06-30 11:06:599 INFO  MyAccountPage :123 - Telephone[[ChromeDriver: chrome on WINDOWS (36619df07c37444451ade454b51fb5e4)] -> id: input-telephone]<br>
+2023-06-30 11:06:724 INFO  MyAccountPage :128 - password[[ChromeDriver: chrome on WINDOWS (36619df07c37444451ade454b51fb5e4)] -> id: input-password]<br>
+2023-06-30 11:06:838 INFO  MyAccountPage :133 - cpwd[[ChromeDriver: chrome on WINDOWS (36619df07c37444451ade454b51fb5e4)] -> id: input-confirm]<br>
+2023-06-30 11:06:956 INFO  MyAccountPage :138 - Radio[[ChromeDriver: chrome on WINDOWS (36619df07c37444451ade454b51fb5e4)] -> xpath: //div/label[1]/input[@name='newsletter']]<br>
+2023-06-30 11:06:75 INFO  MyAccountPage :143 - checkbox[[ChromeDriver: chrome on WINDOWS (36619df07c37444451ade454b51fb5e4)] -> xpath: //div/input[@type='checkbox']]<br>
+2023-06-30 11:06:169 INFO  MyAccountPage :148 - continue [[ChromeDriver: chrome on WINDOWS (36619df07c37444451ade454b51fb5e4)] -> xpath: //div/input[2]]<br>
+2023-06-30 11:06:933 INFO  MyAccountPage :154 - message [[ChromeDriver: chrome on WINDOWS (36619df07c37444451ade454b51fb5e4)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 11:06:975 INFO  MyAccountPage :154 - message [[ChromeDriver: chrome on WINDOWS (36619df07c37444451ade454b51fb5e4)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 11:06:990 INFO  MyAccountPage :154 - message [[ChromeDriver: chrome on WINDOWS (36619df07c37444451ade454b51fb5e4)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 11:06:459 INFO  MyAccountPage :163 - myAccount[[ChromeDriver: chrome on WINDOWS (36619df07c37444451ade454b51fb5e4)] -> link text: My Account]<br>
+2023-06-30 11:06:877 INFO  MyAccountPage :168 - logout [[ChromeDriver: chrome on WINDOWS (36619df07c37444451ade454b51fb5e4)] -> link text: Logout]<br>
+2023-06-30 11:06:466 INFO  MyAccountPage :174 - logout [[ChromeDriver: chrome on WINDOWS (36619df07c37444451ade454b51fb5e4)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 11:06:482 INFO  MyAccountPage :174 - logout [[ChromeDriver: chrome on WINDOWS (36619df07c37444451ade454b51fb5e4)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 11:06:500 INFO  MyAccountPage :174 - logout [[ChromeDriver: chrome on WINDOWS (36619df07c37444451ade454b51fb5e4)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 11:06:912 INFO  MyAccountPage :96 - my account[[ChromeDriver: chrome on WINDOWS (f0658ecfbd3a12287aeee2f9865d73d7)] -> link text: My Account]<br>
+2023-06-30 11:06:657 INFO  MyAccountPage :100 - register [[ChromeDriver: chrome on WINDOWS (f0658ecfbd3a12287aeee2f9865d73d7)] -> link text: Register]<br>
+2023-06-30 11:06:378 INFO  MyAccountPage :104 - verify register text [[ChromeDriver: chrome on WINDOWS (f0658ecfbd3a12287aeee2f9865d73d7)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 11:06:428 INFO  MyAccountPage :104 - verify register text [[ChromeDriver: chrome on WINDOWS (f0658ecfbd3a12287aeee2f9865d73d7)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 11:06:453 INFO  MyAccountPage :104 - verify register text [[ChromeDriver: chrome on WINDOWS (f0658ecfbd3a12287aeee2f9865d73d7)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 11:06:52 INFO  HomePage :41 - mousehover desktop [[ChromeDriver: chrome on WINDOWS (b158ad6c4744097ce3231be0acbfff5b)] -> xpath: //li[1]/a[@class='dropdown-toggle']]<br>
+2023-06-30 11:06:21 INFO  HomePage :46 - welcome text desktop [[ChromeDriver: chrome on WINDOWS (b158ad6c4744097ce3231be0acbfff5b)] -> xpath: //h2]<br>
+2023-06-30 11:06:73 INFO  DesktopPage :79 - sort a to z[[ChromeDriver: chrome on WINDOWS (b158ad6c4744097ce3231be0acbfff5b)] -> xpath: //select[@id='input-sort']]<br>
+2023-06-30 11:06:624 INFO  DesktopPage :87 - item text [[ChromeDriver: chrome on WINDOWS (b158ad6c4744097ce3231be0acbfff5b)] -> xpath: //h1[contains(text(),'HP LP3065')]]<br>
+2023-06-30 11:06:752 INFO  DesktopPage :123 - [[ChromeDriver: chrome on WINDOWS (b158ad6c4744097ce3231be0acbfff5b)] -> xpath: //div[@class='alert alert-success alert-dismissible']]<br>
+2023-06-30 11:06:286 INFO  DesktopPage :134 - product name [[ChromeDriver: chrome on WINDOWS (b158ad6c4744097ce3231be0acbfff5b)] -> link text: HP LP3065]<br>
+2023-06-30 11:06:317 INFO  DesktopPage :134 - product name [[ChromeDriver: chrome on WINDOWS (b158ad6c4744097ce3231be0acbfff5b)] -> link text: HP LP3065]<br>
+2023-06-30 11:06:366 INFO  DesktopPage :138 - Total [[ChromeDriver: chrome on WINDOWS (b158ad6c4744097ce3231be0acbfff5b)] -> xpath: //li/table/tbody/tr/td[5]]<br>
+2023-06-30 11:06:384 INFO  DesktopPage :138 - Total [[ChromeDriver: chrome on WINDOWS (b158ad6c4744097ce3231be0acbfff5b)] -> xpath: //li/table/tbody/tr/td[5]]<br>
+2023-06-30 11:06:402 INFO  DesktopPage :138 - Total [[ChromeDriver: chrome on WINDOWS (b158ad6c4744097ce3231be0acbfff5b)] -> xpath: //li/table/tbody/tr/td[5]]<br>
+2023-06-30 11:06:253 INFO  HomePage :41 - mousehover desktop [[ChromeDriver: chrome on WINDOWS (cd1849ef74d8bc095ae4e9b38e39b416)] -> xpath: //li[1]/a[@class='dropdown-toggle']]<br>
+2023-06-30 11:06:61 INFO  HomePage :46 - welcome text desktop [[ChromeDriver: chrome on WINDOWS (cd1849ef74d8bc095ae4e9b38e39b416)] -> xpath: //h2]<br>
+2023-06-30 11:06:115 INFO  DesktopPage :74 - sort z to a[[ChromeDriver: chrome on WINDOWS (cd1849ef74d8bc095ae4e9b38e39b416)] -> xpath: //select[@id='input-sort']]<br>
+2023-06-30 11:06:506 INFO  HomePage :41 - mousehover desktop [[ChromeDriver: chrome on WINDOWS (a77d0b7bd8b7c9de4280433ef362d05a)] -> xpath: //li[1]/a[@class='dropdown-toggle']]<br>
+2023-06-30 11:06:293 INFO  HomePage :46 - welcome text desktop [[ChromeDriver: chrome on WINDOWS (a77d0b7bd8b7c9de4280433ef362d05a)] -> xpath: //h2]<br>
+2023-06-30 11:06:321 INFO  HomePage :46 - welcome text desktop [[ChromeDriver: chrome on WINDOWS (a77d0b7bd8b7c9de4280433ef362d05a)] -> xpath: //h2]<br>
+2023-06-30 11:06:150 INFO  MyAccountPage :96 - my account[[ChromeDriver: chrome on WINDOWS (361ae8453419add329ea160956011fa0)] -> link text: My Account]<br>
+2023-06-30 11:06:897 INFO  MyAccountPage :100 - register [[ChromeDriver: chrome on WINDOWS (361ae8453419add329ea160956011fa0)] -> link text: Register]<br>
+2023-06-30 11:06:539 INFO  MyAccountPage :108 - firstname[[ChromeDriver: chrome on WINDOWS (361ae8453419add329ea160956011fa0)] -> id: input-firstname]<br>
+2023-06-30 11:06:689 INFO  MyAccountPage :113 - lastname[[ChromeDriver: chrome on WINDOWS (361ae8453419add329ea160956011fa0)] -> id: input-lastname]<br>
+2023-06-30 11:06:809 INFO  MyAccountPage :118 - email [[ChromeDriver: chrome on WINDOWS (361ae8453419add329ea160956011fa0)] -> id: input-email]<br>
+2023-06-30 11:06:942 INFO  MyAccountPage :123 - Telephone[[ChromeDriver: chrome on WINDOWS (361ae8453419add329ea160956011fa0)] -> id: input-telephone]<br>
+2023-06-30 11:06:57 INFO  MyAccountPage :128 - password[[ChromeDriver: chrome on WINDOWS (361ae8453419add329ea160956011fa0)] -> id: input-password]<br>
+2023-06-30 11:06:175 INFO  MyAccountPage :133 - cpwd[[ChromeDriver: chrome on WINDOWS (361ae8453419add329ea160956011fa0)] -> id: input-confirm]<br>
+2023-06-30 11:06:298 INFO  MyAccountPage :138 - Radio[[ChromeDriver: chrome on WINDOWS (361ae8453419add329ea160956011fa0)] -> xpath: //div/label[1]/input[@name='newsletter']]<br>
+2023-06-30 11:06:432 INFO  MyAccountPage :143 - checkbox[[ChromeDriver: chrome on WINDOWS (361ae8453419add329ea160956011fa0)] -> xpath: //div/input[@type='checkbox']]<br>
+2023-06-30 11:06:542 INFO  MyAccountPage :148 - continue [[ChromeDriver: chrome on WINDOWS (361ae8453419add329ea160956011fa0)] -> xpath: //div/input[2]]<br>
+2023-06-30 11:06:09 INFO  MyAccountPage :154 - message [[ChromeDriver: chrome on WINDOWS (361ae8453419add329ea160956011fa0)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 11:06:55 INFO  MyAccountPage :154 - message [[ChromeDriver: chrome on WINDOWS (361ae8453419add329ea160956011fa0)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 11:06:74 INFO  MyAccountPage :154 - message [[ChromeDriver: chrome on WINDOWS (361ae8453419add329ea160956011fa0)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 11:06:227 INFO  MyAccountPage :96 - my account[[ChromeDriver: chrome on WINDOWS (8adce09802946165cf63d4031c787c41)] -> link text: My Account]<br>
+2023-06-30 11:06:942 INFO  MyAccountPage :100 - register [[ChromeDriver: chrome on WINDOWS (8adce09802946165cf63d4031c787c41)] -> link text: Register]<br>
+2023-06-30 11:06:586 INFO  MyAccountPage :104 - verify register text [[ChromeDriver: chrome on WINDOWS (8adce09802946165cf63d4031c787c41)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 11:06:628 INFO  MyAccountPage :104 - verify register text [[ChromeDriver: chrome on WINDOWS (8adce09802946165cf63d4031c787c41)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 11:06:644 INFO  MyAccountPage :104 - verify register text [[ChromeDriver: chrome on WINDOWS (8adce09802946165cf63d4031c787c41)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 22:06:505 INFO  HomePage :41 - mousehover desktop [[ChromeDriver: chrome on WINDOWS (db20a60ee72846cd7ccf447128f6e407)] -> xpath: //li[1]/a[@class='dropdown-toggle']]<br>
+2023-06-30 22:06:218 INFO  HomePage :46 - welcome text desktop [[ChromeDriver: chrome on WINDOWS (db20a60ee72846cd7ccf447128f6e407)] -> xpath: //h2]<br>
+2023-06-30 22:06:251 INFO  DesktopPage :79 - sort a to z[[ChromeDriver: chrome on WINDOWS (db20a60ee72846cd7ccf447128f6e407)] -> xpath: //select[@id='input-sort']]<br>
+2023-06-30 22:06:354 INFO  DesktopPage :87 - item text [[ChromeDriver: chrome on WINDOWS (db20a60ee72846cd7ccf447128f6e407)] -> xpath: //h1[contains(text(),'HP LP3065')]]<br>
+2023-06-30 22:06:217 INFO  DesktopPage :123 - [[ChromeDriver: chrome on WINDOWS (db20a60ee72846cd7ccf447128f6e407)] -> xpath: //div[@class='alert alert-success alert-dismissible']]<br>
+2023-06-30 22:06:616 INFO  DesktopPage :134 - product name [[ChromeDriver: chrome on WINDOWS (db20a60ee72846cd7ccf447128f6e407)] -> link text: HP LP3065]<br>
+2023-06-30 22:06:638 INFO  DesktopPage :134 - product name [[ChromeDriver: chrome on WINDOWS (db20a60ee72846cd7ccf447128f6e407)] -> link text: HP LP3065]<br>
+2023-06-30 22:06:667 INFO  DesktopPage :138 - Total [[ChromeDriver: chrome on WINDOWS (db20a60ee72846cd7ccf447128f6e407)] -> xpath: //li/table/tbody/tr/td[5]]<br>
+2023-06-30 22:06:678 INFO  DesktopPage :138 - Total [[ChromeDriver: chrome on WINDOWS (db20a60ee72846cd7ccf447128f6e407)] -> xpath: //li/table/tbody/tr/td[5]]<br>
+2023-06-30 22:06:691 INFO  DesktopPage :138 - Total [[ChromeDriver: chrome on WINDOWS (db20a60ee72846cd7ccf447128f6e407)] -> xpath: //li/table/tbody/tr/td[5]]<br>
+2023-06-30 22:06:154 INFO  HomePage :41 - mousehover desktop [[ChromeDriver: chrome on WINDOWS (3af3760ecae0ba2b83761f1c06a4023a)] -> xpath: //li[1]/a[@class='dropdown-toggle']]<br>
+2023-06-30 22:06:828 INFO  HomePage :46 - welcome text desktop [[ChromeDriver: chrome on WINDOWS (3af3760ecae0ba2b83761f1c06a4023a)] -> xpath: //h2]<br>
+2023-06-30 22:06:864 INFO  DesktopPage :74 - sort z to a[[ChromeDriver: chrome on WINDOWS (3af3760ecae0ba2b83761f1c06a4023a)] -> xpath: //select[@id='input-sort']]<br>
+2023-06-30 22:06:634 INFO  HomePage :41 - mousehover desktop [[ChromeDriver: chrome on WINDOWS (369d9092cd83e98fbade9ff943756890)] -> xpath: //li[1]/a[@class='dropdown-toggle']]<br>
+2023-06-30 22:06:505 INFO  HomePage :46 - welcome text desktop [[ChromeDriver: chrome on WINDOWS (369d9092cd83e98fbade9ff943756890)] -> xpath: //h2]<br>
+2023-06-30 22:06:519 INFO  HomePage :46 - welcome text desktop [[ChromeDriver: chrome on WINDOWS (369d9092cd83e98fbade9ff943756890)] -> xpath: //h2]<br>
+2023-06-30 22:06:921 INFO  MyAccountPage :96 - my account[[ChromeDriver: chrome on WINDOWS (d3955ec05498214a72f99b43a2ece1d3)] -> link text: My Account]<br>
+2023-06-30 22:06:31 INFO  MyAccountPage :100 - register [[ChromeDriver: chrome on WINDOWS (d3955ec05498214a72f99b43a2ece1d3)] -> link text: Register]<br>
+2023-06-30 22:06:575 INFO  MyAccountPage :108 - firstname[[ChromeDriver: chrome on WINDOWS (d3955ec05498214a72f99b43a2ece1d3)] -> id: input-firstname]<br>
+2023-06-30 22:06:654 INFO  MyAccountPage :113 - lastname[[ChromeDriver: chrome on WINDOWS (d3955ec05498214a72f99b43a2ece1d3)] -> id: input-lastname]<br>
+2023-06-30 22:06:721 INFO  MyAccountPage :118 - email [[ChromeDriver: chrome on WINDOWS (d3955ec05498214a72f99b43a2ece1d3)] -> id: input-email]<br>
+2023-06-30 22:06:803 INFO  MyAccountPage :123 - Telephone[[ChromeDriver: chrome on WINDOWS (d3955ec05498214a72f99b43a2ece1d3)] -> id: input-telephone]<br>
+2023-06-30 22:06:876 INFO  MyAccountPage :128 - password[[ChromeDriver: chrome on WINDOWS (d3955ec05498214a72f99b43a2ece1d3)] -> id: input-password]<br>
+2023-06-30 22:06:945 INFO  MyAccountPage :133 - cpwd[[ChromeDriver: chrome on WINDOWS (d3955ec05498214a72f99b43a2ece1d3)] -> id: input-confirm]<br>
+2023-06-30 22:06:13 INFO  MyAccountPage :138 - Radio[[ChromeDriver: chrome on WINDOWS (d3955ec05498214a72f99b43a2ece1d3)] -> xpath: //div/label[1]/input[@name='newsletter']]<br>
+2023-06-30 22:06:74 INFO  MyAccountPage :143 - checkbox[[ChromeDriver: chrome on WINDOWS (d3955ec05498214a72f99b43a2ece1d3)] -> xpath: //div/input[@type='checkbox']]<br>
+2023-06-30 22:06:127 INFO  MyAccountPage :148 - continue [[ChromeDriver: chrome on WINDOWS (d3955ec05498214a72f99b43a2ece1d3)] -> xpath: //div/input[2]]<br>
+2023-06-30 22:06:488 INFO  MyAccountPage :154 - message [[ChromeDriver: chrome on WINDOWS (d3955ec05498214a72f99b43a2ece1d3)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 22:06:508 INFO  MyAccountPage :154 - message [[ChromeDriver: chrome on WINDOWS (d3955ec05498214a72f99b43a2ece1d3)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 22:06:517 INFO  MyAccountPage :154 - message [[ChromeDriver: chrome on WINDOWS (d3955ec05498214a72f99b43a2ece1d3)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 22:06:71 INFO  MyAccountPage :96 - my account[[ChromeDriver: chrome on WINDOWS (63094dcc497d021203433ebdb931d496)] -> link text: My Account]<br>
+2023-06-30 22:06:185 INFO  MyAccountPage :100 - register [[ChromeDriver: chrome on WINDOWS (63094dcc497d021203433ebdb931d496)] -> link text: Register]<br>
+2023-06-30 22:06:723 INFO  MyAccountPage :104 - verify register text [[ChromeDriver: chrome on WINDOWS (63094dcc497d021203433ebdb931d496)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 22:06:751 INFO  MyAccountPage :104 - verify register text [[ChromeDriver: chrome on WINDOWS (63094dcc497d021203433ebdb931d496)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 22:06:763 INFO  MyAccountPage :104 - verify register text [[ChromeDriver: chrome on WINDOWS (63094dcc497d021203433ebdb931d496)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 22:06:574 INFO  HomePage :41 - mousehover desktop [[ChromeDriver: chrome on WINDOWS (bbc880c7e0d6f22c49229be71704a71b)] -> xpath: //li[1]/a[@class='dropdown-toggle']]<br>
+2023-06-30 22:06:389 INFO  HomePage :46 - welcome text desktop [[ChromeDriver: chrome on WINDOWS (bbc880c7e0d6f22c49229be71704a71b)] -> xpath: //h2]<br>
+2023-06-30 22:06:414 INFO  DesktopPage :79 - sort a to z[[ChromeDriver: chrome on WINDOWS (bbc880c7e0d6f22c49229be71704a71b)] -> xpath: //select[@id='input-sort']]<br>
+2023-06-30 22:06:437 INFO  DesktopPage :87 - item text [[ChromeDriver: chrome on WINDOWS (bbc880c7e0d6f22c49229be71704a71b)] -> xpath: //h1[contains(text(),'HP LP3065')]]<br>
+2023-06-30 22:06:752 INFO  DesktopPage :123 - Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='alert alert-success alert-dismissible']'<br>
+2023-06-30 22:06:635 INFO  HomePage :41 - mousehover desktop [[ChromeDriver: chrome on WINDOWS (02ac9387bb6eeea6d6ac8b385d567793)] -> xpath: //li[1]/a[@class='dropdown-toggle']]<br>
+2023-06-30 22:06:542 INFO  HomePage :46 - welcome text desktop [[ChromeDriver: chrome on WINDOWS (02ac9387bb6eeea6d6ac8b385d567793)] -> xpath: //h2]<br>
+2023-06-30 22:06:572 INFO  DesktopPage :74 - sort z to a[[ChromeDriver: chrome on WINDOWS (02ac9387bb6eeea6d6ac8b385d567793)] -> xpath: //select[@id='input-sort']]<br>
+2023-06-30 22:06:631 INFO  HomePage :41 - mousehover desktop [[ChromeDriver: chrome on WINDOWS (0e377af1e13f645ec63b739402a0bc71)] -> xpath: //li[1]/a[@class='dropdown-toggle']]<br>
+2023-06-30 22:06:460 INFO  HomePage :46 - welcome text desktop [[ChromeDriver: chrome on WINDOWS (0e377af1e13f645ec63b739402a0bc71)] -> xpath: //h2]<br>
+2023-06-30 22:06:475 INFO  HomePage :46 - welcome text desktop [[ChromeDriver: chrome on WINDOWS (0e377af1e13f645ec63b739402a0bc71)] -> xpath: //h2]<br>
+2023-06-30 22:06:63 INFO  MyAccountPage :96 - my account[[ChromeDriver: chrome on WINDOWS (3101cac72bb4de105bc7e9ad8a158ce9)] -> link text: My Account]<br>
+2023-06-30 22:06:570 INFO  MyAccountPage :100 - register [[ChromeDriver: chrome on WINDOWS (3101cac72bb4de105bc7e9ad8a158ce9)] -> link text: Register]<br>
+2023-06-30 22:06:64 INFO  MyAccountPage :108 - firstname[[ChromeDriver: chrome on WINDOWS (3101cac72bb4de105bc7e9ad8a158ce9)] -> id: input-firstname]<br>
+2023-06-30 22:06:140 INFO  MyAccountPage :113 - lastname[[ChromeDriver: chrome on WINDOWS (3101cac72bb4de105bc7e9ad8a158ce9)] -> id: input-lastname]<br>
+2023-06-30 22:06:189 INFO  MyAccountPage :118 - email [[ChromeDriver: chrome on WINDOWS (3101cac72bb4de105bc7e9ad8a158ce9)] -> id: input-email]<br>
+2023-06-30 22:06:253 INFO  MyAccountPage :123 - Telephone[[ChromeDriver: chrome on WINDOWS (3101cac72bb4de105bc7e9ad8a158ce9)] -> id: input-telephone]<br>
+2023-06-30 22:06:304 INFO  MyAccountPage :128 - password[[ChromeDriver: chrome on WINDOWS (3101cac72bb4de105bc7e9ad8a158ce9)] -> id: input-password]<br>
+2023-06-30 22:06:351 INFO  MyAccountPage :133 - cpwd[[ChromeDriver: chrome on WINDOWS (3101cac72bb4de105bc7e9ad8a158ce9)] -> id: input-confirm]<br>
+2023-06-30 22:06:400 INFO  MyAccountPage :138 - Radio[[ChromeDriver: chrome on WINDOWS (3101cac72bb4de105bc7e9ad8a158ce9)] -> xpath: //div/label[1]/input[@name='newsletter']]<br>
+2023-06-30 22:06:447 INFO  MyAccountPage :143 - checkbox[[ChromeDriver: chrome on WINDOWS (3101cac72bb4de105bc7e9ad8a158ce9)] -> xpath: //div/input[@type='checkbox']]<br>
+2023-06-30 22:06:488 INFO  MyAccountPage :148 - continue [[ChromeDriver: chrome on WINDOWS (3101cac72bb4de105bc7e9ad8a158ce9)] -> xpath: //div/input[2]]<br>
+2023-06-30 22:06:42 INFO  MyAccountPage :154 - message [[ChromeDriver: chrome on WINDOWS (3101cac72bb4de105bc7e9ad8a158ce9)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 22:06:61 INFO  MyAccountPage :154 - message [[ChromeDriver: chrome on WINDOWS (3101cac72bb4de105bc7e9ad8a158ce9)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 22:06:69 INFO  MyAccountPage :154 - message [[ChromeDriver: chrome on WINDOWS (3101cac72bb4de105bc7e9ad8a158ce9)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 22:06:793 INFO  MyAccountPage :163 - myAccount[[ChromeDriver: chrome on WINDOWS (3101cac72bb4de105bc7e9ad8a158ce9)] -> link text: My Account]<br>
+2023-06-30 22:06:95 INFO  MyAccountPage :168 - logout [[ChromeDriver: chrome on WINDOWS (3101cac72bb4de105bc7e9ad8a158ce9)] -> link text: Logout]<br>
+2023-06-30 22:06:607 INFO  MyAccountPage :174 - logout [[ChromeDriver: chrome on WINDOWS (3101cac72bb4de105bc7e9ad8a158ce9)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 22:06:617 INFO  MyAccountPage :174 - logout [[ChromeDriver: chrome on WINDOWS (3101cac72bb4de105bc7e9ad8a158ce9)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 22:06:625 INFO  MyAccountPage :174 - logout [[ChromeDriver: chrome on WINDOWS (3101cac72bb4de105bc7e9ad8a158ce9)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 22:06:790 INFO  MyAccountPage :96 - my account[[ChromeDriver: chrome on WINDOWS (003c42fecacfa5a57a3f393bfcf72bf0)] -> link text: My Account]<br>
+2023-06-30 22:06:322 INFO  MyAccountPage :100 - register [[ChromeDriver: chrome on WINDOWS (003c42fecacfa5a57a3f393bfcf72bf0)] -> link text: Register]<br>
+2023-06-30 22:06:841 INFO  MyAccountPage :104 - verify register text [[ChromeDriver: chrome on WINDOWS (003c42fecacfa5a57a3f393bfcf72bf0)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 22:06:862 INFO  MyAccountPage :104 - verify register text [[ChromeDriver: chrome on WINDOWS (003c42fecacfa5a57a3f393bfcf72bf0)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 22:06:870 INFO  MyAccountPage :104 - verify register text [[ChromeDriver: chrome on WINDOWS (003c42fecacfa5a57a3f393bfcf72bf0)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 22:06:625 INFO  HomePage :41 - mousehover desktop [[ChromeDriver: chrome on WINDOWS (127fa2598d0fe4f386ec54d14f806835)] -> xpath: //li[1]/a[@class='dropdown-toggle']]<br>
+2023-06-30 22:06:283 INFO  HomePage :46 - welcome text desktop [[ChromeDriver: chrome on WINDOWS (127fa2598d0fe4f386ec54d14f806835)] -> xpath: //h2]<br>
+2023-06-30 22:06:309 INFO  DesktopPage :79 - sort a to z[[ChromeDriver: chrome on WINDOWS (127fa2598d0fe4f386ec54d14f806835)] -> xpath: //select[@id='input-sort']]<br>
+2023-06-30 22:06:348 INFO  DesktopPage :87 - item text [[ChromeDriver: chrome on WINDOWS (127fa2598d0fe4f386ec54d14f806835)] -> xpath: //h1[contains(text(),'HP LP3065')]]<br>
+2023-06-30 22:06:815 INFO  DesktopPage :123 - [[ChromeDriver: chrome on WINDOWS (127fa2598d0fe4f386ec54d14f806835)] -> xpath: //div[@class='alert alert-success alert-dismissible']]<br>
+2023-06-30 22:06:190 INFO  DesktopPage :134 - product name [[ChromeDriver: chrome on WINDOWS (127fa2598d0fe4f386ec54d14f806835)] -> link text: HP LP3065]<br>
+2023-06-30 22:06:209 INFO  DesktopPage :134 - product name [[ChromeDriver: chrome on WINDOWS (127fa2598d0fe4f386ec54d14f806835)] -> link text: HP LP3065]<br>
+2023-06-30 22:06:236 INFO  DesktopPage :138 - Total [[ChromeDriver: chrome on WINDOWS (127fa2598d0fe4f386ec54d14f806835)] -> xpath: //li/table/tbody/tr/td[5]]<br>
+2023-06-30 22:06:245 INFO  DesktopPage :138 - Total [[ChromeDriver: chrome on WINDOWS (127fa2598d0fe4f386ec54d14f806835)] -> xpath: //li/table/tbody/tr/td[5]]<br>
+2023-06-30 22:06:254 INFO  DesktopPage :138 - Total [[ChromeDriver: chrome on WINDOWS (127fa2598d0fe4f386ec54d14f806835)] -> xpath: //li/table/tbody/tr/td[5]]<br>
+2023-06-30 22:06:431 INFO  HomePage :41 - mousehover desktop [[ChromeDriver: chrome on WINDOWS (2c6c96fb0d3bd3193b0ac445ae3b2392)] -> xpath: //li[1]/a[@class='dropdown-toggle']]<br>
+2023-06-30 22:06:292 INFO  HomePage :46 - welcome text desktop [[ChromeDriver: chrome on WINDOWS (2c6c96fb0d3bd3193b0ac445ae3b2392)] -> xpath: //h2]<br>
+2023-06-30 22:06:323 INFO  DesktopPage :74 - sort z to a[[ChromeDriver: chrome on WINDOWS (2c6c96fb0d3bd3193b0ac445ae3b2392)] -> xpath: //select[@id='input-sort']]<br>
+2023-06-30 22:06:925 INFO  HomePage :41 - mousehover desktop [[ChromeDriver: chrome on WINDOWS (a2f0e5f0667534e7fe7e9ae924eb579b)] -> xpath: //li[1]/a[@class='dropdown-toggle']]<br>
+2023-06-30 22:06:801 INFO  HomePage :46 - welcome text desktop [[ChromeDriver: chrome on WINDOWS (a2f0e5f0667534e7fe7e9ae924eb579b)] -> xpath: //h2]<br>
+2023-06-30 22:06:819 INFO  HomePage :46 - welcome text desktop [[ChromeDriver: chrome on WINDOWS (a2f0e5f0667534e7fe7e9ae924eb579b)] -> xpath: //h2]<br>
+2023-06-30 22:06:752 INFO  MyAccountPage :96 - my account[[ChromeDriver: chrome on WINDOWS (8aca4be97d423586f76e2b09d9dbe018)] -> link text: My Account]<br>
+2023-06-30 22:06:828 INFO  MyAccountPage :100 - register [[ChromeDriver: chrome on WINDOWS (8aca4be97d423586f76e2b09d9dbe018)] -> link text: Register]<br>
+2023-06-30 22:06:336 INFO  MyAccountPage :108 - firstname[[ChromeDriver: chrome on WINDOWS (8aca4be97d423586f76e2b09d9dbe018)] -> id: input-firstname]<br>
+2023-06-30 22:06:408 INFO  MyAccountPage :113 - lastname[[ChromeDriver: chrome on WINDOWS (8aca4be97d423586f76e2b09d9dbe018)] -> id: input-lastname]<br>
+2023-06-30 22:06:465 INFO  MyAccountPage :118 - email [[ChromeDriver: chrome on WINDOWS (8aca4be97d423586f76e2b09d9dbe018)] -> id: input-email]<br>
+2023-06-30 22:06:525 INFO  MyAccountPage :123 - Telephone[[ChromeDriver: chrome on WINDOWS (8aca4be97d423586f76e2b09d9dbe018)] -> id: input-telephone]<br>
+2023-06-30 22:06:583 INFO  MyAccountPage :128 - password[[ChromeDriver: chrome on WINDOWS (8aca4be97d423586f76e2b09d9dbe018)] -> id: input-password]<br>
+2023-06-30 22:06:636 INFO  MyAccountPage :133 - cpwd[[ChromeDriver: chrome on WINDOWS (8aca4be97d423586f76e2b09d9dbe018)] -> id: input-confirm]<br>
+2023-06-30 22:06:687 INFO  MyAccountPage :138 - Radio[[ChromeDriver: chrome on WINDOWS (8aca4be97d423586f76e2b09d9dbe018)] -> xpath: //div/label[1]/input[@name='newsletter']]<br>
+2023-06-30 22:06:735 INFO  MyAccountPage :143 - checkbox[[ChromeDriver: chrome on WINDOWS (8aca4be97d423586f76e2b09d9dbe018)] -> xpath: //div/input[@type='checkbox']]<br>
+2023-06-30 22:06:779 INFO  MyAccountPage :148 - continue [[ChromeDriver: chrome on WINDOWS (8aca4be97d423586f76e2b09d9dbe018)] -> xpath: //div/input[2]]<br>
+2023-06-30 22:06:112 INFO  MyAccountPage :154 - message [[ChromeDriver: chrome on WINDOWS (8aca4be97d423586f76e2b09d9dbe018)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 22:06:132 INFO  MyAccountPage :154 - message [[ChromeDriver: chrome on WINDOWS (8aca4be97d423586f76e2b09d9dbe018)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 22:06:141 INFO  MyAccountPage :154 - message [[ChromeDriver: chrome on WINDOWS (8aca4be97d423586f76e2b09d9dbe018)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 22:06:430 INFO  MyAccountPage :96 - my account[[ChromeDriver: chrome on WINDOWS (8d8ddc362d92e8e3811d4ade134c3986)] -> link text: My Account]<br>
+2023-06-30 22:06:503 INFO  MyAccountPage :100 - register [[ChromeDriver: chrome on WINDOWS (8d8ddc362d92e8e3811d4ade134c3986)] -> link text: Register]<br>
+2023-06-30 22:06:08 INFO  MyAccountPage :104 - verify register text [[ChromeDriver: chrome on WINDOWS (8d8ddc362d92e8e3811d4ade134c3986)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 22:06:31 INFO  MyAccountPage :104 - verify register text [[ChromeDriver: chrome on WINDOWS (8d8ddc362d92e8e3811d4ade134c3986)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 22:06:41 INFO  MyAccountPage :104 - verify register text [[ChromeDriver: chrome on WINDOWS (8d8ddc362d92e8e3811d4ade134c3986)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 22:06:447 INFO  MyAccountPage :96 - my account[[ChromeDriver: chrome on WINDOWS (082fb26fbaf19e546745b56e39f57c4d)] -> link text: My Account]<br>
+2023-06-30 22:06:516 INFO  MyAccountPage :100 - register [[ChromeDriver: chrome on WINDOWS (082fb26fbaf19e546745b56e39f57c4d)] -> link text: Register]<br>
+2023-06-30 22:06:36 INFO  MyAccountPage :108 - firstname[[ChromeDriver: chrome on WINDOWS (082fb26fbaf19e546745b56e39f57c4d)] -> id: input-firstname]<br>
+2023-06-30 22:06:105 INFO  MyAccountPage :113 - lastname[[ChromeDriver: chrome on WINDOWS (082fb26fbaf19e546745b56e39f57c4d)] -> id: input-lastname]<br>
+2023-06-30 22:06:161 INFO  MyAccountPage :118 - email [[ChromeDriver: chrome on WINDOWS (082fb26fbaf19e546745b56e39f57c4d)] -> id: input-email]<br>
+2023-06-30 22:06:223 INFO  MyAccountPage :123 - Telephone[[ChromeDriver: chrome on WINDOWS (082fb26fbaf19e546745b56e39f57c4d)] -> id: input-telephone]<br>
+2023-06-30 22:06:285 INFO  MyAccountPage :128 - password[[ChromeDriver: chrome on WINDOWS (082fb26fbaf19e546745b56e39f57c4d)] -> id: input-password]<br>
+2023-06-30 22:06:344 INFO  MyAccountPage :133 - cpwd[[ChromeDriver: chrome on WINDOWS (082fb26fbaf19e546745b56e39f57c4d)] -> id: input-confirm]<br>
+2023-06-30 22:06:405 INFO  MyAccountPage :138 - Radio[[ChromeDriver: chrome on WINDOWS (082fb26fbaf19e546745b56e39f57c4d)] -> xpath: //div/label[1]/input[@name='newsletter']]<br>
+2023-06-30 22:06:457 INFO  MyAccountPage :143 - checkbox[[ChromeDriver: chrome on WINDOWS (082fb26fbaf19e546745b56e39f57c4d)] -> xpath: //div/input[@type='checkbox']]<br>
+2023-06-30 22:06:505 INFO  MyAccountPage :148 - continue [[ChromeDriver: chrome on WINDOWS (082fb26fbaf19e546745b56e39f57c4d)] -> xpath: //div/input[2]]<br>
+2023-06-30 22:06:88 INFO  MyAccountPage :154 - message [[ChromeDriver: chrome on WINDOWS (082fb26fbaf19e546745b56e39f57c4d)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 22:06:110 INFO  MyAccountPage :154 - message [[ChromeDriver: chrome on WINDOWS (082fb26fbaf19e546745b56e39f57c4d)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 22:06:121 INFO  MyAccountPage :154 - message [[ChromeDriver: chrome on WINDOWS (082fb26fbaf19e546745b56e39f57c4d)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 22:06:452 INFO  MyAccountPage :163 - myAccount[[ChromeDriver: chrome on WINDOWS (082fb26fbaf19e546745b56e39f57c4d)] -> link text: My Account]<br>
+2023-06-30 22:06:508 INFO  MyAccountPage :168 - logout [[ChromeDriver: chrome on WINDOWS (082fb26fbaf19e546745b56e39f57c4d)] -> link text: Logout]<br>
+2023-06-30 22:06:996 INFO  MyAccountPage :174 - logout [[ChromeDriver: chrome on WINDOWS (082fb26fbaf19e546745b56e39f57c4d)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 22:06:06 INFO  MyAccountPage :174 - logout [[ChromeDriver: chrome on WINDOWS (082fb26fbaf19e546745b56e39f57c4d)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 22:06:16 INFO  MyAccountPage :174 - logout [[ChromeDriver: chrome on WINDOWS (082fb26fbaf19e546745b56e39f57c4d)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 23:06:702 INFO  HomePage :41 - mousehover desktop [[ChromeDriver: chrome on WINDOWS (764ce2b8f55020fc5ae583176fb26f3a)] -> xpath: //li[1]/a[@class='dropdown-toggle']]<br>
+2023-06-30 23:06:585 INFO  HomePage :46 - welcome text desktop [[ChromeDriver: chrome on WINDOWS (764ce2b8f55020fc5ae583176fb26f3a)] -> xpath: //h2]<br>
+2023-06-30 23:06:614 INFO  DesktopPage :79 - sort a to z[[ChromeDriver: chrome on WINDOWS (764ce2b8f55020fc5ae583176fb26f3a)] -> xpath: //select[@id='input-sort']]<br>
+2023-06-30 23:06:426 INFO  DesktopPage :87 - item text [[ChromeDriver: chrome on WINDOWS (764ce2b8f55020fc5ae583176fb26f3a)] -> xpath: //h1[contains(text(),'HP LP3065')]]<br>
+2023-06-30 23:06:228 INFO  DesktopPage :123 - [[ChromeDriver: chrome on WINDOWS (764ce2b8f55020fc5ae583176fb26f3a)] -> xpath: //div[@class='alert alert-success alert-dismissible']]<br>
+2023-06-30 23:06:624 INFO  DesktopPage :134 - product name [[ChromeDriver: chrome on WINDOWS (764ce2b8f55020fc5ae583176fb26f3a)] -> link text: HP LP3065]<br>
+2023-06-30 23:06:643 INFO  DesktopPage :134 - product name [[ChromeDriver: chrome on WINDOWS (764ce2b8f55020fc5ae583176fb26f3a)] -> link text: HP LP3065]<br>
+2023-06-30 23:06:664 INFO  DesktopPage :138 - Total [[ChromeDriver: chrome on WINDOWS (764ce2b8f55020fc5ae583176fb26f3a)] -> xpath: //li/table/tbody/tr/td[5]]<br>
+2023-06-30 23:06:676 INFO  DesktopPage :138 - Total [[ChromeDriver: chrome on WINDOWS (764ce2b8f55020fc5ae583176fb26f3a)] -> xpath: //li/table/tbody/tr/td[5]]<br>
+2023-06-30 23:06:684 INFO  DesktopPage :138 - Total [[ChromeDriver: chrome on WINDOWS (764ce2b8f55020fc5ae583176fb26f3a)] -> xpath: //li/table/tbody/tr/td[5]]<br>
+2023-06-30 23:06:711 INFO  HomePage :41 - mousehover desktop [[ChromeDriver: chrome on WINDOWS (d3c8ceaa7b35d8a4034d893f7a83c81b)] -> xpath: //li[1]/a[@class='dropdown-toggle']]<br>
+2023-06-30 23:06:358 INFO  HomePage :46 - welcome text desktop [[ChromeDriver: chrome on WINDOWS (d3c8ceaa7b35d8a4034d893f7a83c81b)] -> xpath: //h2]<br>
+2023-06-30 23:06:385 INFO  DesktopPage :74 - sort z to a[[ChromeDriver: chrome on WINDOWS (d3c8ceaa7b35d8a4034d893f7a83c81b)] -> xpath: //select[@id='input-sort']]<br>
+2023-06-30 23:06:496 INFO  HomePage :41 - mousehover desktop [[ChromeDriver: chrome on WINDOWS (fa279ad56f72451b53218ab0746d1307)] -> xpath: //li[1]/a[@class='dropdown-toggle']]<br>
+2023-06-30 23:06:191 INFO  HomePage :46 - welcome text desktop [[ChromeDriver: chrome on WINDOWS (fa279ad56f72451b53218ab0746d1307)] -> xpath: //h2]<br>
+2023-06-30 23:06:227 INFO  DesktopPage :79 - sort a to z[[ChromeDriver: chrome on WINDOWS (fa279ad56f72451b53218ab0746d1307)] -> xpath: //select[@id='input-sort']]<br>
+2023-06-30 23:06:365 INFO  DesktopPage :87 - item text [[ChromeDriver: chrome on WINDOWS (fa279ad56f72451b53218ab0746d1307)] -> xpath: //h1[contains(text(),'HP LP3065')]]<br>
+2023-06-30 23:06:277 INFO  DesktopPage :123 - [[ChromeDriver: chrome on WINDOWS (fa279ad56f72451b53218ab0746d1307)] -> xpath: //div[@class='alert alert-success alert-dismissible']]<br>
+2023-06-30 23:06:680 INFO  DesktopPage :134 - product name [[ChromeDriver: chrome on WINDOWS (fa279ad56f72451b53218ab0746d1307)] -> link text: HP LP3065]<br>
+2023-06-30 23:06:695 INFO  DesktopPage :134 - product name [[ChromeDriver: chrome on WINDOWS (fa279ad56f72451b53218ab0746d1307)] -> link text: HP LP3065]<br>
+2023-06-30 23:06:719 INFO  DesktopPage :138 - Total [[ChromeDriver: chrome on WINDOWS (fa279ad56f72451b53218ab0746d1307)] -> xpath: //li/table/tbody/tr/td[5]]<br>
+2023-06-30 23:06:727 INFO  DesktopPage :138 - Total [[ChromeDriver: chrome on WINDOWS (fa279ad56f72451b53218ab0746d1307)] -> xpath: //li/table/tbody/tr/td[5]]<br>
+2023-06-30 23:06:737 INFO  DesktopPage :138 - Total [[ChromeDriver: chrome on WINDOWS (fa279ad56f72451b53218ab0746d1307)] -> xpath: //li/table/tbody/tr/td[5]]<br>
+2023-06-30 23:06:988 INFO  HomePage :41 - mousehover desktop [[ChromeDriver: chrome on WINDOWS (54d01162696f2ebed356663872e21e0a)] -> xpath: //li[1]/a[@class='dropdown-toggle']]<br>
+2023-06-30 23:06:873 INFO  HomePage :46 - welcome text desktop [[ChromeDriver: chrome on WINDOWS (54d01162696f2ebed356663872e21e0a)] -> xpath: //h2]<br>
+2023-06-30 23:06:904 INFO  DesktopPage :74 - sort z to a[[ChromeDriver: chrome on WINDOWS (54d01162696f2ebed356663872e21e0a)] -> xpath: //select[@id='input-sort']]<br>
+2023-06-30 23:06:82 INFO  HomePage :41 - mousehover desktop [[ChromeDriver: chrome on WINDOWS (1fa471cc5dd488e9da84c2f8395b9731)] -> xpath: //li[1]/a[@class='dropdown-toggle']]<br>
+2023-06-30 23:06:734 INFO  HomePage :46 - welcome text desktop [[ChromeDriver: chrome on WINDOWS (1fa471cc5dd488e9da84c2f8395b9731)] -> xpath: //h2]<br>
+2023-06-30 23:06:756 INFO  HomePage :46 - welcome text desktop [[ChromeDriver: chrome on WINDOWS (1fa471cc5dd488e9da84c2f8395b9731)] -> xpath: //h2]<br>
+2023-06-30 23:06:705 INFO  MyAccountPage :96 - my account[[ChromeDriver: chrome on WINDOWS (7cbdfcfe1382c995db1bf5a08cd47e83)] -> link text: My Account]<br>
+2023-06-30 23:06:228 INFO  MyAccountPage :100 - register [[ChromeDriver: chrome on WINDOWS (7cbdfcfe1382c995db1bf5a08cd47e83)] -> link text: Register]<br>
+2023-06-30 23:06:746 INFO  MyAccountPage :108 - firstname[[ChromeDriver: chrome on WINDOWS (7cbdfcfe1382c995db1bf5a08cd47e83)] -> id: input-firstname]<br>
+2023-06-30 23:06:827 INFO  MyAccountPage :113 - lastname[[ChromeDriver: chrome on WINDOWS (7cbdfcfe1382c995db1bf5a08cd47e83)] -> id: input-lastname]<br>
+2023-06-30 23:06:886 INFO  MyAccountPage :118 - email [[ChromeDriver: chrome on WINDOWS (7cbdfcfe1382c995db1bf5a08cd47e83)] -> id: input-email]<br>
+2023-06-30 23:06:962 INFO  MyAccountPage :123 - Telephone[[ChromeDriver: chrome on WINDOWS (7cbdfcfe1382c995db1bf5a08cd47e83)] -> id: input-telephone]<br>
+2023-06-30 23:06:57 INFO  MyAccountPage :128 - password[[ChromeDriver: chrome on WINDOWS (7cbdfcfe1382c995db1bf5a08cd47e83)] -> id: input-password]<br>
+2023-06-30 23:06:129 INFO  MyAccountPage :133 - cpwd[[ChromeDriver: chrome on WINDOWS (7cbdfcfe1382c995db1bf5a08cd47e83)] -> id: input-confirm]<br>
+2023-06-30 23:06:203 INFO  MyAccountPage :138 - Radio[[ChromeDriver: chrome on WINDOWS (7cbdfcfe1382c995db1bf5a08cd47e83)] -> xpath: //div/label[1]/input[@name='newsletter']]<br>
+2023-06-30 23:06:277 INFO  MyAccountPage :143 - checkbox[[ChromeDriver: chrome on WINDOWS (7cbdfcfe1382c995db1bf5a08cd47e83)] -> xpath: //div/input[@type='checkbox']]<br>
+2023-06-30 23:06:337 INFO  MyAccountPage :148 - continue [[ChromeDriver: chrome on WINDOWS (7cbdfcfe1382c995db1bf5a08cd47e83)] -> xpath: //div/input[2]]<br>
+2023-06-30 23:06:925 INFO  MyAccountPage :154 - message [[ChromeDriver: chrome on WINDOWS (7cbdfcfe1382c995db1bf5a08cd47e83)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 23:06:949 INFO  MyAccountPage :154 - message [[ChromeDriver: chrome on WINDOWS (7cbdfcfe1382c995db1bf5a08cd47e83)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 23:06:961 INFO  MyAccountPage :154 - message [[ChromeDriver: chrome on WINDOWS (7cbdfcfe1382c995db1bf5a08cd47e83)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 23:06:297 INFO  MyAccountPage :163 - myAccount[[ChromeDriver: chrome on WINDOWS (7cbdfcfe1382c995db1bf5a08cd47e83)] -> link text: My Account]<br>
+2023-06-30 23:06:599 INFO  MyAccountPage :168 - logout [[ChromeDriver: chrome on WINDOWS (7cbdfcfe1382c995db1bf5a08cd47e83)] -> link text: Logout]<br>
+2023-06-30 23:06:73 INFO  MyAccountPage :174 - logout [[ChromeDriver: chrome on WINDOWS (7cbdfcfe1382c995db1bf5a08cd47e83)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 23:06:86 INFO  MyAccountPage :174 - logout [[ChromeDriver: chrome on WINDOWS (7cbdfcfe1382c995db1bf5a08cd47e83)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 23:06:96 INFO  MyAccountPage :174 - logout [[ChromeDriver: chrome on WINDOWS (7cbdfcfe1382c995db1bf5a08cd47e83)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 23:06:378 INFO  MyAccountPage :96 - my account[[ChromeDriver: chrome on WINDOWS (6da27b25e0a8e444454edcf9ddd04367)] -> link text: My Account]<br>
+2023-06-30 23:06:903 INFO  MyAccountPage :100 - register [[ChromeDriver: chrome on WINDOWS (6da27b25e0a8e444454edcf9ddd04367)] -> link text: Register]<br>
+2023-06-30 23:06:414 INFO  MyAccountPage :104 - verify register text [[ChromeDriver: chrome on WINDOWS (6da27b25e0a8e444454edcf9ddd04367)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 23:06:435 INFO  MyAccountPage :104 - verify register text [[ChromeDriver: chrome on WINDOWS (6da27b25e0a8e444454edcf9ddd04367)] -> xpath: //div[@id='content']/h1]<br>
+2023-06-30 23:06:444 INFO  MyAccountPage :104 - verify register text [[ChromeDriver: chrome on WINDOWS (6da27b25e0a8e444454edcf9ddd04367)] -> xpath: //div[@id='content']/h1]<br>
+2023-07-01 14:07:158 INFO  HomePage :41 - mousehover desktop [[ChromeDriver: chrome on WINDOWS (7a4468093b38c448062d5206d9c4d254)] -> xpath: //li[1]/a[@class='dropdown-toggle']]<br>
+2023-07-01 14:07:150 INFO  HomePage :46 - welcome text desktop [[ChromeDriver: chrome on WINDOWS (7a4468093b38c448062d5206d9c4d254)] -> xpath: //h2]<br>
+2023-07-01 14:07:217 INFO  DesktopPage :79 - sort a to z[[ChromeDriver: chrome on WINDOWS (7a4468093b38c448062d5206d9c4d254)] -> xpath: //select[@id='input-sort']]<br>
+2023-07-01 14:07:834 INFO  DesktopPage :87 - item text [[ChromeDriver: chrome on WINDOWS (7a4468093b38c448062d5206d9c4d254)] -> xpath: //h1[contains(text(),'HP LP3065')]]<br>
+2023-07-01 14:07:793 INFO  DesktopPage :123 - [[ChromeDriver: chrome on WINDOWS (7a4468093b38c448062d5206d9c4d254)] -> xpath: //div[@class='alert alert-success alert-dismissible']]<br>
+2023-07-01 14:07:360 INFO  DesktopPage :134 - product name [[ChromeDriver: chrome on WINDOWS (7a4468093b38c448062d5206d9c4d254)] -> link text: HP LP3065]<br>
+2023-07-01 14:07:389 INFO  DesktopPage :134 - product name [[ChromeDriver: chrome on WINDOWS (7a4468093b38c448062d5206d9c4d254)] -> link text: HP LP3065]<br>
+2023-07-01 14:07:431 INFO  DesktopPage :138 - Total [[ChromeDriver: chrome on WINDOWS (7a4468093b38c448062d5206d9c4d254)] -> xpath: //li/table/tbody/tr/td[5]]<br>
+2023-07-01 14:07:451 INFO  DesktopPage :138 - Total [[ChromeDriver: chrome on WINDOWS (7a4468093b38c448062d5206d9c4d254)] -> xpath: //li/table/tbody/tr/td[5]]<br>
+2023-07-01 14:07:485 INFO  DesktopPage :138 - Total [[ChromeDriver: chrome on WINDOWS (7a4468093b38c448062d5206d9c4d254)] -> xpath: //li/table/tbody/tr/td[5]]<br>
+2023-07-01 14:07:818 INFO  HomePage :41 - mousehover desktop [[ChromeDriver: chrome on WINDOWS (25979b496e8fd99a5fe2e1aab55f19d5)] -> xpath: //li[1]/a[@class='dropdown-toggle']]<br>
+2023-07-01 14:07:686 INFO  HomePage :46 - welcome text desktop [[ChromeDriver: chrome on WINDOWS (25979b496e8fd99a5fe2e1aab55f19d5)] -> xpath: //h2]<br>
+2023-07-01 14:07:724 INFO  DesktopPage :74 - sort z to a[[ChromeDriver: chrome on WINDOWS (25979b496e8fd99a5fe2e1aab55f19d5)] -> xpath: //select[@id='input-sort']]<br>
+2023-07-01 14:07:719 INFO  HomePage :41 - mousehover desktop [[ChromeDriver: chrome on WINDOWS (136d6d85e68cd0238e10287571d8aafb)] -> xpath: //li[1]/a[@class='dropdown-toggle']]<br>
+2023-07-01 14:07:760 INFO  HomePage :46 - welcome text desktop [[ChromeDriver: chrome on WINDOWS (136d6d85e68cd0238e10287571d8aafb)] -> xpath: //h2]<br>
+2023-07-01 14:07:810 INFO  HomePage :46 - welcome text desktop [[ChromeDriver: chrome on WINDOWS (136d6d85e68cd0238e10287571d8aafb)] -> xpath: //h2]<br>
+2023-07-01 14:07:391 INFO  MyAccountPage :96 - my account[[ChromeDriver: chrome on WINDOWS (0587428c99215a706131e8b9e2797a7f)] -> link text: My Account]<br>
+2023-07-01 14:07:511 INFO  MyAccountPage :100 - register [[ChromeDriver: chrome on WINDOWS (0587428c99215a706131e8b9e2797a7f)] -> link text: Register]<br>
+2023-07-01 14:07:129 INFO  MyAccountPage :108 - firstname[[ChromeDriver: chrome on WINDOWS (0587428c99215a706131e8b9e2797a7f)] -> id: input-firstname]<br>
+2023-07-01 14:07:310 INFO  MyAccountPage :113 - lastname[[ChromeDriver: chrome on WINDOWS (0587428c99215a706131e8b9e2797a7f)] -> id: input-lastname]<br>
+2023-07-01 14:07:465 INFO  MyAccountPage :118 - email [[ChromeDriver: chrome on WINDOWS (0587428c99215a706131e8b9e2797a7f)] -> id: input-email]<br>
+2023-07-01 14:07:573 INFO  MyAccountPage :123 - Telephone[[ChromeDriver: chrome on WINDOWS (0587428c99215a706131e8b9e2797a7f)] -> id: input-telephone]<br>
+2023-07-01 14:07:685 INFO  MyAccountPage :128 - password[[ChromeDriver: chrome on WINDOWS (0587428c99215a706131e8b9e2797a7f)] -> id: input-password]<br>
+2023-07-01 14:07:810 INFO  MyAccountPage :133 - cpwd[[ChromeDriver: chrome on WINDOWS (0587428c99215a706131e8b9e2797a7f)] -> id: input-confirm]<br>
+2023-07-01 14:07:934 INFO  MyAccountPage :138 - Radio[[ChromeDriver: chrome on WINDOWS (0587428c99215a706131e8b9e2797a7f)] -> xpath: //div/label[1]/input[@name='newsletter']]<br>
+2023-07-01 14:07:30 INFO  MyAccountPage :143 - checkbox[[ChromeDriver: chrome on WINDOWS (0587428c99215a706131e8b9e2797a7f)] -> xpath: //div/input[@type='checkbox']]<br>
+2023-07-01 14:07:121 INFO  MyAccountPage :148 - continue [[ChromeDriver: chrome on WINDOWS (0587428c99215a706131e8b9e2797a7f)] -> xpath: //div/input[2]]<br>
+2023-07-01 14:07:621 INFO  MyAccountPage :154 - message [[ChromeDriver: chrome on WINDOWS (0587428c99215a706131e8b9e2797a7f)] -> xpath: //div[@id='content']/h1]<br>
+2023-07-01 14:07:665 INFO  MyAccountPage :154 - message [[ChromeDriver: chrome on WINDOWS (0587428c99215a706131e8b9e2797a7f)] -> xpath: //div[@id='content']/h1]<br>
+2023-07-01 14:07:684 INFO  MyAccountPage :154 - message [[ChromeDriver: chrome on WINDOWS (0587428c99215a706131e8b9e2797a7f)] -> xpath: //div[@id='content']/h1]<br>
+2023-07-01 14:07:759 INFO  MyAccountPage :96 - my account[[ChromeDriver: chrome on WINDOWS (26239ce6a046076c6d7985be60973d2b)] -> link text: My Account]<br>
+2023-07-01 14:07:878 INFO  MyAccountPage :100 - register [[ChromeDriver: chrome on WINDOWS (26239ce6a046076c6d7985be60973d2b)] -> link text: Register]<br>
+2023-07-01 14:07:533 INFO  MyAccountPage :104 - verify register text [[ChromeDriver: chrome on WINDOWS (26239ce6a046076c6d7985be60973d2b)] -> xpath: //div[@id='content']/h1]<br>
+2023-07-01 14:07:562 INFO  MyAccountPage :104 - verify register text [[ChromeDriver: chrome on WINDOWS (26239ce6a046076c6d7985be60973d2b)] -> xpath: //div[@id='content']/h1]<br>
+2023-07-01 14:07:573 INFO  MyAccountPage :104 - verify register text [[ChromeDriver: chrome on WINDOWS (26239ce6a046076c6d7985be60973d2b)] -> xpath: //div[@id='content']/h1]<br>
